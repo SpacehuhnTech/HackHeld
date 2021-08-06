@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name d1_mini)(type Legacy)(uri ${KIPRJMOD}/Symbols/d1_mini.lib)(options "")(descr ""))
+)

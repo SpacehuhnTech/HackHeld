@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Hackheld Footprints")(type KiCad)(uri ${KIPRJMOD}/Footprints)(options "")(descr ""))
+)
