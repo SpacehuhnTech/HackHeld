@@ -1,5 +1,9 @@
 # HackHeld
 
+## Hackheld Vega - PCB
+
+[Download Gerbers](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_PCB/Hackheld_Vega_gerbers.zip)
+
 ## Hackheld Vega - Bill Of Materials (BOM)
 
 | Part | Amount | Description | Link (affiliate) |
