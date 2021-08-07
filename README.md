@@ -34,3 +34,7 @@ It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), bu
 [Download STL](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_Case/Hackheld_Vega_Case.stl)
 
 Additionally, you will need 4 M2.5 screws to connect the PCB to the case.
+
+### Hackheld Vega - Firmware
+
+You can write your own code for it, or run the [ESP8266 Deauther V2](https://github.com/spacehuhntech/esp8266_deauther) (You can download a [bin file here](https://github.com/SpacehuhnTech/esp8266_deauther/releases/download/2.6.1/esp8266_deauther_2.6.1_HACKHELD_VEGA.bin))
