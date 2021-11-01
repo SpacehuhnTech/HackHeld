@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Hackheld Vega"
-Date "2021-06-14"
+Title "Hackheld Vega Schematic"
+Date "2021-08-06"
 Rev "1"
 Comp "Spacehuhn Technologies"
 Comment1 "Designed with <3 by Stefan"
-Comment2 "Hackable ESP8266 Handheld"
+Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr

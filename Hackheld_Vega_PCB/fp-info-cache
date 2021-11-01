@@ -1,18 +1,4 @@
-20241370722869183
-Audio_Module
-Reverb_BTDR-1H
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
-Audio_Module
-Reverb_BTDR-1V
-Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
-audio belton reverb
-0
-7
-7
+19410788461132894
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -253,63 +239,63 @@ battery CR1225 coin cell
 0
 Battery
 Battery_Panasonic_CR1025-VSK_Vertical_CircularHoles
-Panasonic CR-1025/VSK battery
+Panasonic CR-1025/VSK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-1025 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR1220-VCN_Vertical_CircularHoles
-Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.PDF
+Panasonic CR-1220/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-1220 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR1632-V1AN_Vertical_CircularHoles
-Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D464.PDF
+Panasonic CR-1632-V1AN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-1632 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2025-V1AK_Vertical_CircularHoles
-Panasonic CR-2025/V1AK battery,
+Panasonic CR-2025/V1AK battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-2025 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2032-VS1N_Vertical_CircularHoles
-Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D348.PDF
+Panasonic CR-2032/VS1N battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-2032 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2354-VCN_Vertical_CircularHoles
-Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D486.PDF
+Panasonic CR-2354/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-2354/VCN coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR2450-VAN_Vertical_CircularHoles
-Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D492.PDF
+Panasonic CR-2450/VAN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-2450 coin cell
 0
 2
 2
 Battery
 Battery_Panasonic_CR2477-VCN_Vertical_CircularHoles
-Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D502.PDF
+Panasonic CR-2477/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-2477 coin cell vertical
 0
 2
 2
 Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
-Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
+Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D140.pdf
 battery CR-3032 coin cell vertical
 0
 2
@@ -2191,14 +2177,7 @@ buzzer piezo
 2
 2
 Buzzer_Beeper
-Buzzer_Murata_PKLCS1212E
-Murata Buzzer https://www.murata.com/~/media/webrenewal/support/library/catalog/products/sound/p37e.ashx
-Murata Buzzer Beeper
-0
-2
-2
-Buzzer_Beeper
-Buzzer_Murata_PKMCS0909E
+Buzzer_Murata_PKMCS0909E4000-R1
 Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
 Murata Buzzer Beeper
 0
@@ -2208,13 +2187,6 @@ Buzzer_Beeper
 Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm
 Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
 buzzer
-0
-2
-2
-Buzzer_Beeper
-Indicator_PUI_AI-1440-TWT-24V-2-R
-14mm Indicator, https://www.puiaudio.com/media/SpecSheet/AI-1440-TWT-24V-2-R.pdf
-piezo buzzer self drive oscillator
 0
 2
 2
@@ -6180,20 +6152,6 @@ connector 3-pin PD-30 power DIN
 0
 4
 4
-Connector
-CUI_PD-30S
-3-pin nonstandard DIN connector, shielded, PD-30S, http://www.cui.com/product/resource/pd-30s.pdf
-connector 3-pin PD-30S power DIN shielded
-0
-8
-5
-Connector
-CUI_PD-30S_CircularHoles
-3-pin nonstandard DIN connector, shielded, PD-30S, http://www.cui.com/product/resource/pd-30s.pdf
-connector 3-pin PD-30S power DIN shielded
-0
-8
-5
 Connector
 CalTest_CT3151
 Right-angle standard banana jack, http://www.caltestelectronics.com/images/attachments/P315100rH_drawing.pdf
@@ -15889,405 +15847,6 @@ connector JST XAG top entry
 0
 7
 6
-Connector_JST
-JST_XA_B02B-XASK-1-A_1x02_P2.50mm_Vertical
-JST XA series connector, B02B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-2
-2
-Connector_JST
-JST_XA_B02B-XASK-1_1x02_P2.50mm_Vertical
-JST XA series connector, B02B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-2
-2
-Connector_JST
-JST_XA_B03B-XASK-1-A_1x03_P2.50mm_Vertical
-JST XA series connector, B03B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-3
-3
-Connector_JST
-JST_XA_B03B-XASK-1_1x03_P2.50mm_Vertical
-JST XA series connector, B03B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-3
-3
-Connector_JST
-JST_XA_B04B-XASK-1-A_1x04_P2.50mm_Vertical
-JST XA series connector, B04B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-4
-4
-Connector_JST
-JST_XA_B04B-XASK-1_1x04_P2.50mm_Vertical
-JST XA series connector, B04B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-4
-4
-Connector_JST
-JST_XA_B05B-XASK-1-A_1x05_P2.50mm_Vertical
-JST XA series connector, B05B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-5
-5
-Connector_JST
-JST_XA_B05B-XASK-1_1x05_P2.50mm_Vertical
-JST XA series connector, B05B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-5
-5
-Connector_JST
-JST_XA_B06B-XASK-1-A_1x06_P2.50mm_Vertical
-JST XA series connector, B06B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-6
-6
-Connector_JST
-JST_XA_B06B-XASK-1_1x06_P2.50mm_Vertical
-JST XA series connector, B06B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-6
-6
-Connector_JST
-JST_XA_B07B-XASK-1-A_1x07_P2.50mm_Vertical
-JST XA series connector, B07B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-7
-7
-Connector_JST
-JST_XA_B07B-XASK-1_1x07_P2.50mm_Vertical
-JST XA series connector, B07B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-7
-7
-Connector_JST
-JST_XA_B08B-XASK-1-A_1x08_P2.50mm_Vertical
-JST XA series connector, B08B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-8
-8
-Connector_JST
-JST_XA_B08B-XASK-1_1x08_P2.50mm_Vertical
-JST XA series connector, B08B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-8
-8
-Connector_JST
-JST_XA_B09B-XASK-1-A_1x09_P2.50mm_Vertical
-JST XA series connector, B09B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-9
-9
-Connector_JST
-JST_XA_B09B-XASK-1_1x09_P2.50mm_Vertical
-JST XA series connector, B09B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-9
-9
-Connector_JST
-JST_XA_B10B-XASK-1-A_1x10_P2.50mm_Vertical
-JST XA series connector, B10B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-10
-10
-Connector_JST
-JST_XA_B10B-XASK-1_1x10_P2.50mm_Vertical
-JST XA series connector, B10B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-10
-10
-Connector_JST
-JST_XA_B11B-XASK-1-A_1x11_P2.50mm_Vertical
-JST XA series connector, B11B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-11
-11
-Connector_JST
-JST_XA_B11B-XASK-1_1x11_P2.50mm_Vertical
-JST XA series connector, B11B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-11
-11
-Connector_JST
-JST_XA_B12B-XASK-1-A_1x12_P2.50mm_Vertical
-JST XA series connector, B12B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-12
-12
-Connector_JST
-JST_XA_B12B-XASK-1_1x12_P2.50mm_Vertical
-JST XA series connector, B12B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-12
-12
-Connector_JST
-JST_XA_B13B-XASK-1-A_1x13_P2.50mm_Vertical
-JST XA series connector, B13B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-13
-13
-Connector_JST
-JST_XA_B13B-XASK-1_1x13_P2.50mm_Vertical
-JST XA series connector, B13B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-13
-13
-Connector_JST
-JST_XA_B14B-XASK-1-A_1x14_P2.50mm_Vertical
-JST XA series connector, B14B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-14
-14
-Connector_JST
-JST_XA_B14B-XASK-1_1x14_P2.50mm_Vertical
-JST XA series connector, B14B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-14
-14
-Connector_JST
-JST_XA_B15B-XASK-1-A_1x15_P2.50mm_Vertical
-JST XA series connector, B15B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-15
-15
-Connector_JST
-JST_XA_B15B-XASK-1_1x15_P2.50mm_Vertical
-JST XA series connector, B15B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-15
-15
-Connector_JST
-JST_XA_B18B-XASK-1_1x18_P2.50mm_Vertical
-JST XA series connector, B18B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-18
-18
-Connector_JST
-JST_XA_B20B-XASK-1-A_1x20_P2.50mm_Vertical
-JST XA series connector, B20B-XASK-1-A (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical boss
-0
-20
-20
-Connector_JST
-JST_XA_B20B-XASK-1_1x20_P2.50mm_Vertical
-JST XA series connector, B20B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA vertical
-0
-20
-20
-Connector_JST
-JST_XA_S02B-XASK-1N-BN_1x02_P2.50mm_Horizontal
-JST XA series connector, S02B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-2
-2
-Connector_JST
-JST_XA_S02B-XASK-1_1x02_P2.50mm_Horizontal
-JST XA series connector, S02B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-2
-2
-Connector_JST
-JST_XA_S03B-XASK-1N-BN_1x03_P2.50mm_Horizontal
-JST XA series connector, S03B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-3
-3
-Connector_JST
-JST_XA_S03B-XASK-1_1x03_P2.50mm_Horizontal
-JST XA series connector, S03B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-3
-3
-Connector_JST
-JST_XA_S04B-XASK-1N-BN_1x04_P2.50mm_Horizontal
-JST XA series connector, S04B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-4
-4
-Connector_JST
-JST_XA_S04B-XASK-1_1x04_P2.50mm_Horizontal
-JST XA series connector, S04B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-4
-4
-Connector_JST
-JST_XA_S05B-XASK-1N-BN_1x05_P2.50mm_Horizontal
-JST XA series connector, S05B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-5
-5
-Connector_JST
-JST_XA_S05B-XASK-1_1x05_P2.50mm_Horizontal
-JST XA series connector, S05B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-5
-5
-Connector_JST
-JST_XA_S06B-XASK-1N-BN_1x06_P2.50mm_Horizontal
-JST XA series connector, S06B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-6
-6
-Connector_JST
-JST_XA_S06B-XASK-1_1x06_P2.50mm_Horizontal
-JST XA series connector, S06B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-6
-6
-Connector_JST
-JST_XA_S07B-XASK-1N-BN_1x07_P2.50mm_Horizontal
-JST XA series connector, S07B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-7
-7
-Connector_JST
-JST_XA_S07B-XASK-1_1x07_P2.50mm_Horizontal
-JST XA series connector, S07B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-7
-7
-Connector_JST
-JST_XA_S08B-XASK-1N-BN_1x08_P2.50mm_Horizontal
-JST XA series connector, S08B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-8
-8
-Connector_JST
-JST_XA_S08B-XASK-1_1x08_P2.50mm_Horizontal
-JST XA series connector, S08B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-8
-8
-Connector_JST
-JST_XA_S09B-XASK-1N-BN_1x09_P2.50mm_Horizontal
-JST XA series connector, S09B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-9
-9
-Connector_JST
-JST_XA_S09B-XASK-1_1x09_P2.50mm_Horizontal
-JST XA series connector, S09B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-9
-9
-Connector_JST
-JST_XA_S10B-XASK-1N-BN_1x10_P2.50mm_Horizontal
-JST XA series connector, S10B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-10
-10
-Connector_JST
-JST_XA_S10B-XASK-1_1x10_P2.50mm_Horizontal
-JST XA series connector, S10B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-10
-10
-Connector_JST
-JST_XA_S11B-XASK-1N-BN_1x11_P2.50mm_Horizontal
-JST XA series connector, S11B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-11
-11
-Connector_JST
-JST_XA_S11B-XASK-1_1x11_P2.50mm_Horizontal
-JST XA series connector, S11B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-11
-11
-Connector_JST
-JST_XA_S12B-XASK-1N-BN_1x12_P2.50mm_Horizontal
-JST XA series connector, S12B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-12
-12
-Connector_JST
-JST_XA_S12B-XASK-1_1x12_P2.50mm_Horizontal
-JST XA series connector, S12B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-12
-12
-Connector_JST
-JST_XA_S13B-XASK-1N-BN_1x13_P2.50mm_Horizontal
-JST XA series connector, S13B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-13
-13
-Connector_JST
-JST_XA_S13B-XASK-1_1x13_P2.50mm_Horizontal
-JST XA series connector, S13B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-13
-13
-Connector_JST
-JST_XA_S14B-XASK-1N-BN_1x14_P2.50mm_Horizontal
-JST XA series connector, S14B-XASK-1N-BN (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal
-0
-14
-14
-Connector_JST
-JST_XA_S14B-XASK-1_1x14_P2.50mm_Horizontal
-JST XA series connector, S14B-XASK-1 (http://www.jst-mfg.com/product/pdf/eng/eXA1.pdf), generated with kicad-footprint-generator
-connector JST XA horizontal hook
-0
-14
-14
 Connector_JST
 JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
 JST XH series connector, B1B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -41062,13 +40621,6 @@ RJ45 Vertical Shield LED Green Yellow
 14
 13
 Connector_RJ
-RJ45_Bel_SI-60062-F
-1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://belfuse.com/resources/drawings/magneticsolutions/dr-mag-si-60062-f.pdf
-RJ45 Magjack
-0
-14
-13
-Connector_RJ
 RJ45_Cetus_J1B1211CCD_Horizontal
 1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, Cetus, used and distributed by WIZnet (https://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550web:wiz550webds_kr:j1b1211ccd.pdf)
 RJ45 Magjack
@@ -41124,13 +40676,6 @@ ethernet 8p8c transformer magjack
 0
 12
 11
-Connector_RJ
-RJ45_UDE_RB1-125B8G1A
-1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
-RJ45 ethernet
-0
-16
-15
 Connector_RJ
 RJ45_Wuerth_7499010001A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010001A.pdf
@@ -47502,20 +47047,6 @@ recom power ac dc
 5
 5
 Converter_ACDC
-Converter_ACDC_Recom_RAC20-xxDK_THT
-Recom RAC20-xxDK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020
-Recom RAC20-xxDK
-0
-5
-5
-Converter_ACDC
-Converter_ACDC_Recom_RAC20-xxSK_THT
-Recom RAC20-xxSK https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf#page=6 Rev. 6/2020
-Recom RAC20-xxSK
-0
-4
-4
-Converter_ACDC
 Converter_ACDC_TRACO_TMG-15_THT
 ACDC-Converter, TRACO, TMG Series 15 https://www.tracopower.com/products/tmg.pdf
 ACDC-Converter TRACO TMG Series 15
@@ -47642,27 +47173,6 @@ MeanWell NID60
 11
 11
 Converter_DCDC
-Converter_DCDC_Murata_CRE1xxxxxx3C_THT
-Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-Isolated 1W single output DC/DC
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_Murata_CRE1xxxxxxDC_THT
-Isloated DC-DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-Isloated DC-DC
-0
-4
-4
-Converter_DCDC
-Converter_DCDC_Murata_CRE1xxxxxxSC_THT
-http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-murata dc-dc transformer
-0
-4
-4
-Converter_DCDC
 Converter_DCDC_Murata_MEE1SxxxxSC_THT
 https://power.murata.com/pub/data/power/ncl/kdc_mee1.pdf
 murata dc-dc transformer
@@ -47697,41 +47207,6 @@ Murata NCS1SxxxxSC
 0
 5
 5
-Converter_DCDC
-Converter_DCDC_Murata_NMAxxxxDC_THT
-Isolated 1W DCDC-Converter, http://power.murata.com/data/power/ncl/kdc_nma.pdf
-Isolated 1W DCDC-Converter
-0
-6
-6
-Converter_DCDC
-Converter_DCDC_Murata_NMAxxxxSC_THT
-Murata NMAxxxxSC footprint based on SIP7, http://power.murata.com/data/power/ncl/kdc_nma.pdf
-Murata NMAxxxxSC DCDC-Converter
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_Murata_NXExSxxxxMC_SMD
-Isolated 1W or 2W Single Output SM DC/DC Converters https://www.murata.com/products/productdata/8807031865374/kdc-nxe1.pdf#page=8 https://www.murata.com/products/productdata/8807031898142/kdc-nxe2.pdf#page=9
-Isolated 1W or 2W Single Output SM DC/DC Converters
-0
-5
-5
-Converter_DCDC
-Converter_DCDC_Murata_OKI-78SR_Horizontal
-https://power.murata.com/data/power/oki-78sr.pdf
-78sr3.3 78sr5 78sr9 78sr12 78srXX
-0
-3
-3
-Converter_DCDC
-Converter_DCDC_Murata_OKI-78SR_Vertical
-https://power.murata.com/data/power/oki-78sr.pdf
-78sr3.3 78sr5 78sr9 78sr12 78srXX
-0
-3
-3
 Converter_DCDC
 Converter_DCDC_RECOM_R-78B-2.0_THT
 DCDC-Converter, RECOM, RECOM_R-78B-2.0, SIP-3, pitch 2.54mm, package size 11.5x8.5x17.5mm^3, https://www.recom-power.com/pdf/Innoline/R-78Bxx-2.0.pdf
@@ -47984,6 +47459,62 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Converter_DCDC
+Converter_DCDC_muRata_CRE1xxxxxx3C_THT
+Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
+Isolated 1W single output DC/DC
+0
+4
+4
+Converter_DCDC
+Converter_DCDC_muRata_CRE1xxxxxxDC_THT
+Isloated DC-DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
+Isloated DC-DC
+0
+4
+4
+Converter_DCDC
+Converter_DCDC_muRata_CRE1xxxxxxSC_THT
+http://power.murata.com/data/power/ncl/kdc_cre1.pdf
+murata dc-dc transformer
+0
+4
+4
+Converter_DCDC
+Converter_DCDC_muRata_NMAxxxxDC_THT
+Isolated 1W DCDC-Converter, http://power.murata.com/data/power/ncl/kdc_nma.pdf
+Isolated 1W DCDC-Converter
+0
+6
+6
+Converter_DCDC
+Converter_DCDC_muRata_NMAxxxxSC_THT
+muRata NMAxxxxSC footprint based on SIP7, http://power.murata.com/data/power/ncl/kdc_nma.pdf
+muRata NMAxxxxSC DCDC-Converter
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_muRata_NXExSxxxxMC_SMD
+Isolated 1W or 2W Single Output SM DC/DC Converters http://power.murata.com/data/power/ncl/kdc_nxe1.pdf http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
+Isolated 1W or 2W Single Output SM DC/DC Converters
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_muRata_OKI-78SR_Horizontal
+https://power.murata.com/data/power/oki-78sr.pdf
+78sr3.3 78sr5 78sr9 78sr12 78srXX
+0
+3
+3
+Converter_DCDC
+Converter_DCDC_muRata_OKI-78SR_Vertical
+https://power.murata.com/data/power/oki-78sr.pdf
+78sr3.3 78sr5 78sr9 78sr12 78srXX
+0
+3
+3
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -49126,34 +48657,6 @@ THT ceramic resonator filter
 3
 3
 Crystal
-Resonator_Murata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm
-Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins
-THT ceramic resonator filter CSTLSxxxG
-0
-3
-3
-Crystal
-Resonator_Murata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
-Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins
-THT ceramic resonator filter CSTLSxxxX
-0
-3
-3
-Crystal
-Resonator_Murata_DSN6-3Pin_W7.0mm_H2.5mm
-Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
-THT ceramic resonator filter DSN6
-0
-3
-3
-Crystal
-Resonator_Murata_DSS6-3Pin_W7.0mm_H2.5mm
-Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
-THT ceramic resonator filter DSS6
-0
-3
-3
-Crystal
 Resonator_SMD-3Pin_7.2x3.0mm
 SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, 7.2x3.0mm^2 package
 SMD SMT ceramic resonator filter filter
@@ -49168,72 +48671,100 @@ SMD SMT ceramic resonator filter filter hand-soldering
 3
 3
 Crystal
-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm
 SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 4.5x2.0mm^2 package
 SMD SMT ceramic resonator filter filter
 0
 2
 2
 Crystal
-Resonator_SMD_Murata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
 SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 4.5x2.0mm^2 package
 SMD SMT ceramic resonator filter filter hand-soldering
 0
 2
 2
 Crystal
-Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm
 SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
 SMD SMT ceramic resonator filter
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering
 SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf
 SMD SMT ceramic resonator filter
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm
 SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 6.9x2.9mm^2 package
 SMD SMT ceramic resonator filter filter
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_SFECV-3Pin_6.9x2.9mm_HandSoldering
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm_HandSoldering
 SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 6.9x2.9mm^2 package
 SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm
 SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
 SMD SMT ceramic resonator filter filter
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm_HandSoldering
 SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
 SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm
 SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package
 SMD SMT ceramic resonator filter filter
 0
 3
 3
 Crystal
-Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm_HandSoldering
 SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package
 SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal
+Resonator_muRata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxG
+0
+3
+3
+Crystal
+Resonator_muRata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins
+THT ceramic resonator filter CSTLSxxxX
+0
+3
+3
+Crystal
+Resonator_muRata_DSN6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSN6
+0
+3
+3
+Crystal
+Resonator_muRata_DSS6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins
+THT ceramic resonator filter DSS6
 0
 3
 3
@@ -49241,6 +48772,13 @@ Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
 diode
+0
+4
+2
+Diode_SMD
+D_0201_0603Metric_Castellated
+Diode SMD 0201 (0603 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 4
 2
@@ -49259,6 +48797,13 @@ diode
 2
 2
 Diode_SMD
+D_0402_1005Metric_Castellated
+Diode SMD 0402 (1005 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_0402_1005Metric_Pad0.77x0.64mm_HandSolder
 Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode handsolder
@@ -49269,6 +48814,13 @@ Diode_SMD
 D_0603_1608Metric
 Diode SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
+0
+2
+2
+Diode_SMD
+D_0603_1608Metric_Castellated
+Diode SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 2
 2
@@ -49287,6 +48839,13 @@ diode
 2
 2
 Diode_SMD
+D_0805_2012Metric_Castellated
+Diode SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 Diode SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 diode handsolder
@@ -49297,6 +48856,13 @@ Diode_SMD
 D_01005_0402Metric
 Diode SMD 01005 (0402 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
 diode
+0
+4
+2
+Diode_SMD
+D_01005_0402Metric_Castellated
+Diode SMD 01005 (0402 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.vishay.com/docs/20056/crcw01005e3.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 4
 2
@@ -49315,6 +48881,13 @@ diode
 2
 2
 Diode_SMD
+D_1206_3216Metric_Castellated
+Diode SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
 Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode handsolder
@@ -49325,6 +48898,13 @@ Diode_SMD
 D_1210_3225Metric
 Diode SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
+0
+2
+2
+Diode_SMD
+D_1210_3225Metric_Castellated
+Diode SMD 1210 (3225 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 2
 2
@@ -49343,6 +48923,13 @@ diode
 2
 2
 Diode_SMD
+D_1812_4532Metric_Castellated
+Diode SMD 1812 (4532 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_1812_4532Metric_Pad1.30x3.40mm_HandSolder
 Diode SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
 diode handsolder
@@ -49353,6 +48940,13 @@ Diode_SMD
 D_2010_5025Metric
 Diode SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 diode
+0
+2
+2
+Diode_SMD
+D_2010_5025Metric_Castellated
+Diode SMD 2010 (5025 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 2
 2
@@ -49371,6 +48965,13 @@ diode
 2
 2
 Diode_SMD
+D_2114_3652Metric_Castellated
+Diode SMD 2114 (3652 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_2114_3652Metric_Pad1.85x3.75mm_HandSolder
 Diode SMD 2114 (3652 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
 diode handsolder
@@ -49385,8 +48986,36 @@ diode
 2
 2
 Diode_SMD
+D_2512_6332Metric_Castellated
+Diode SMD 2512 (6332 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
 D_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 Diode SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric
+Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric_Castellated
+Diode SMD 2816 (7142 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+diode castellated
+0
+2
+2
+Diode_SMD
+D_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Diode SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 diode handsolder
 0
 2
@@ -49395,6 +49024,13 @@ Diode_SMD
 D_3220_8050Metric
 Diode SMD 3220 (8050 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
 diode
+0
+2
+2
+Diode_SMD
+D_3220_8050Metric_Castellated
+Diode SMD 3220 (8050 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: http://datasheets.avx.com/schottky.pdf), generated with kicad-footprint-generator
+diode castellated
 0
 2
 2
@@ -49741,13 +49377,6 @@ Diode Polymer Protected Zener Diode Littelfuse LS
 0
 3
 3
-Diode_SMD
-Nexperia_CFP3_SOD-123W
-Nexperia CFP3 (SOD-123W), https://assets.nexperia.com/documents/outline-drawing/SOD123W.pdf
-CFP3 SOD-123W
-0
-2
-2
 Diode_THT
 D_5KPW_P7.62mm_Vertical_AnodeUp
 Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
@@ -50407,13 +50036,6 @@ Diotec rectifier diode bridge
 4
 4
 Diode_THT
-Diode_Bridge_Comchip_SCVB-L
-Three phase, Bridge, Rectifier, https://www.comchiptech.com/admin/files/product/SC35VB80S-G%20Thru506369.%20SC35VB160S-G%20RevB.pdf
-diode module
-0
-5
-5
-Diode_THT
 Diode_Bridge_DIP-4_W5.08mm_P2.54mm
 4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
 DIL DIP PDIP 5.08mm 2.54
@@ -50540,20 +50162,6 @@ LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI
 32
 32
 Display
-EA_DOGL128-6
-Graphical,Display,LCD,128x64 https://www.lcd-module.com/eng/pdf/grafik/dogl128-6e.pdf
-EA DOGL128
-0
-26
-26
-Display
-EA_DOGM128-6
-Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf
-EA DOGM128-6
-0
-26
-26
-Display
 EA_DOGS104X-A
 LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
 LCD 4x10 character 3.3V VDD I2C or SPI
@@ -50644,13 +50252,6 @@ TFT-graphical display 800x480 16-bit colours and touch display
 0
 48
 48
-Display
-ERM19264
-STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf
-ERM19264 Graphics Display 192x64
-0
-20
-20
 Display
 HDSM-441B_HDSM-443B
 2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
@@ -50855,13 +50456,6 @@ CC56-12YWA
 12
 12
 Display_7Segment
-D1X8K
-https://ia800903.us.archive.org/24/items/CTKD1x8K/Cromatek%20D168K.pdf
-Single digit 7 segment ultra bright red
-0
-10
-10
-Display_7Segment
 DA04-11CGKWA
 http://www.kingbright.com/attachments/file/psearch/000/00/00/DA04-11CGKWA(Ver.6A).pdf
 Dubble digit green 7 segment LED display
@@ -51030,13 +50624,6 @@ Single digit 7 segement super bright yellow LED
 10
 10
 Display_7Segment
-LTC-4627Jx
-http://optoelectronics.liteon.com/upload/download/DS30-2001-393/C4627JG.pdf
-4 digit 7 segment LED
-0
-14
-14
-Display_7Segment
 MAN71A
 https://www.digchip.com/datasheets/parts/datasheet/161/MAN3640A-pdf.php
 One digit 7 segment red LED with right dot
@@ -51127,13 +50714,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ESP32-S2-WROVER
-MODULE_ESP32-S2-WROVER
-
-
-0
-63
-63
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -51282,20 +50862,6 @@ EMI Filter
 19
 4
 Filter
-Filter_Murata_SFECF-6
-SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf
-10.7MHz smd ceramic
-0
-6
-6
-Filter
-Filter_Murata_SFECF-6_HandSoldering
-SMD Type 10.7MHz Ceramic Filter https://www.murata.com/en-us/products/filter/cerafil/sfecf
-10.7MHz smd ceramic
-0
-6
-6
-Filter
 Filter_Schaffner_FN405
 Compact PCB mounting EMI filter (https://www.schaffner.com/de/produkte/download/product/datasheet/fn-405-pcb-mounting-filter/)
 EMI filter
@@ -51317,6 +50883,13 @@ fuse
 2
 2
 Fuse
+Fuse_0402_1005Metric_Castellated
+Fuse SMD 0402 (1005 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
 Fuse_0402_1005Metric_Pad0.77x0.64mm_HandSolder
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse handsolder
@@ -51327,6 +50900,13 @@ Fuse
 Fuse_0603_1608Metric
 Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
+0
+2
+2
+Fuse
+Fuse_0603_1608Metric_Castellated
+Fuse SMD 0603 (1608 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
 0
 2
 2
@@ -51345,6 +50925,13 @@ fuse
 2
 2
 Fuse
+Fuse_0805_2012Metric_Castellated
+Fuse SMD 0805 (2012 Metric), castellated end terminal, IPC_7351. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
 Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 fuse handsolder
@@ -51355,6 +50942,13 @@ Fuse
 Fuse_1206_3216Metric
 Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse
+0
+2
+2
+Fuse
+Fuse_1206_3216Metric_Castellated
+Fuse SMD 1206 (3216 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
 0
 2
 2
@@ -51373,6 +50967,13 @@ fuse
 2
 2
 Fuse
+Fuse_1210_3225Metric_Castellated
+Fuse SMD 1210 (3225 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
 Fuse_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 Fuse SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse handsolder
@@ -51383,6 +50984,13 @@ Fuse
 Fuse_1812_4532Metric
 Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
 fuse
+0
+2
+2
+Fuse
+Fuse_1812_4532Metric_Castellated
+Fuse SMD 1812 (4532 Metric), castellated end terminal, IPC_7351. (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+fuse castellated
 0
 2
 2
@@ -51401,6 +51009,13 @@ fuse
 2
 2
 Fuse
+Fuse_2010_5025Metric_Castellated
+Fuse SMD 2010 (5025 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
 Fuse_2010_5025Metric_Pad1.52x2.65mm_HandSolder
 Fuse SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 fuse handsolder
@@ -51415,8 +51030,36 @@ fuse
 2
 2
 Fuse
+Fuse_2512_6332Metric_Castellated
+Fuse SMD 2512 (6332 Metric), castellated end terminal, IPC_7351. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
 Fuse_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 Fuse SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse handsolder
+0
+2
+2
+Fuse
+Fuse_2816_7142Metric
+Fuse SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+Fuse
+Fuse_2816_7142Metric_Castellated
+Fuse SMD 2816 (7142 Metric), castellated end terminal, IPC_7351. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+fuse castellated
+0
+2
+2
+Fuse
+Fuse_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Fuse SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 fuse handsolder
 0
 2
@@ -51425,6 +51068,13 @@ Fuse
 Fuse_2920_7451Metric
 Fuse SMD 2920 (7451 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
 fuse
+0
+2
+2
+Fuse
+Fuse_2920_7451Metric_Castellated
+Fuse SMD 2920 (7451 Metric), castellated end terminal, IPC_7351. (Body size from: http://www.megastar.com/products/fusetronic/polyswitch/PDF/smd2920.pdf), generated with kicad-footprint-generator
+fuse castellated
 0
 2
 2
@@ -51912,20 +51562,6 @@ Fuseholder 6.3x32mm horizontal closed
 3
 2
 Fuse
-Fuseholder_Keystone_3555-2
-Maxi APX ATX Automotive Blade Fuse Clip Holder https://www.keyelco.com/userAssets/file/M65p40.pdf
-Maxi APX ATX Automotive Blade Fuse Clip Holder
-0
-4
-2
-Fuse
-Fuseholder_Littelfuse_Nano2_154x
-Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_154_154t_154l_154tl_datasheet.pdf.pdf
-SMD Nano2 holder
-0
-2
-2
-Fuse
 Fuseholder_Littelfuse_Nano2_157x
 Littelfuse NANO2 holder, https://www.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_157_datasheet.pdf.pdf
 SMD Nano2 holder
@@ -51940,12 +51576,26 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 2
 2
 Hackheld Footprints
+@spacehuhntech_big
+
+
+0
+0
+0
+Hackheld Footprints
 HackHeld_Vega
 
 
 0
 0
 0
+Hackheld Footprints
+Neopixel_5050
+https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel
+0
+4
+4
 Hackheld Footprints
 galaxy1_regular
 
@@ -52068,13 +51718,6 @@ heatsink TO-220
 Heatsink
 Heatsink_Fischer_FK24413D2PAK_26x13mm
 26x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d2_pak.pdf
-heatsink TO-252 TO-263 TO-268
-0
-2
-1
-Heatsink
-Heatsink_Fischer_FK24413DPAK_23x13mm
-23x13 mm SMD heatsink for TO-252 TO-263 TO-268, https://www.fischerelektronik.de/pim/upload/fischerData/cadpdf/base/fk_244_13_d_pak.pdf
 heatsink TO-252 TO-263 TO-268
 0
 2
@@ -52291,14 +51934,14 @@ inductor handsolder
 2
 Inductor_SMD
 L_1806_4516Metric
-Inductor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+Inductor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 inductor
 0
 2
 2
 Inductor_SMD
-L_1806_4516Metric_Pad1.45x1.90mm_HandSolder
-Inductor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+L_1806_4516Metric_Pad1.57x1.80mm_HandSolder
+Capacitor SMD 1806 (4516 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://www.modelithics.com/models/Vendor/MuRata/BLM41P.pdf), generated with kicad-footprint-generator
 inductor handsolder
 0
 2
@@ -52341,6 +51984,20 @@ inductor
 Inductor_SMD
 L_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 Inductor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor handsolder
+0
+2
+2
+Inductor_SMD
+L_2816_7142Metric
+Inductor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+Inductor_SMD
+L_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+Inductor SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 inductor handsolder
 0
 2
@@ -52934,13 +52591,6 @@ Inductor Sumida SMD CDMC6D28
 2
 2
 Inductor_SMD
-L_Sumida_CR75
-Inductor, Sumida, 8.1mm × 7.3mm × 5.5 mm, Unshielded, http://products.sumida.com/products/pdf/CR75.pdf
-Inductor SMD CR75 Unshielded
-0
-2
-2
-Inductor_SMD
 L_Sunlord_MWSA0518_5.4x5.2mm
 Inductor, Sunlord, MWSA0518, 5.4mmx5.2mm
 inductor Sunlord smd
@@ -53210,13 +52860,6 @@ Inductor_SMD
 L_TracoPower_TCK-141
 Choke, SMD, 4.0x4.0mm 2.1mm height, https://www.tracopower.com/products/tck141.pdf
 Choke SMD
-0
-2
-2
-Inductor_SMD
-L_Vishay_IFSC-1515AH_4x4x1.8mm
-Low Profile, High Current Inductors (https://www.vishay.com/docs/34295/sc15ah01.pdf)
-SMD Vishay Inductor Low Profile
 0
 2
 2
@@ -54320,14 +53963,14 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 6.35*15.24mm^2  length 19.3
 4
 4
 Inductor_THT
-L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_Murata_5100
+L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=5.08*12.70mm^2, , length*width=21*10mm^2, muRATA, 5100, http://www.murata-ps.com/data/magnetics/kmp_5100.pdf
 L_CommonMode_Toroid Vertical series Radial pin pitch 5.08*12.70mm^2  length 21mm width 10mm muRATA 5100
 0
 4
 4
 Inductor_THT
-L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_Murata_5200
+L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_muRATA_5200
 L_CommonMode_Toroid, Vertical series, Radial, pin pitch=10.16*20.32mm^2, , length*width=24*16.3mm^2, muRATA, 5200, http://www.murata-ps.com/data/magnetics/kmp_5200.pdf
 L_CommonMode_Toroid Vertical series Radial pin pitch 10.16*20.32mm^2  length 24mm width 16.3mm muRATA 5200
 0
@@ -54474,7 +54117,7 @@ Inductor Radial series Radial pin pitch 3.00mm  diameter 7mm
 2
 2
 Inductor_THT
-L_Radial_D7.2mm_P3.00mm_Murata_1700
+L_Radial_D7.2mm_P3.00mm_MuRATA_1700
 Inductor, Radial series, Radial, pin pitch=3.00mm, , diameter=7.2mm, MuRATA, 1700, http://www.murata-ps.com/data/magnetics/kmp_1700.pdf
 Inductor Radial series Radial pin pitch 3.00mm  diameter 7.2mm MuRATA 1700
 0
@@ -54579,7 +54222,7 @@ Inductor Radial series Radial pin pitch 5.00mm  diameter 12.0mm Neosid SD12k sty
 2
 2
 Inductor_THT
-L_Radial_D12.0mm_P6.00mm_Murata_1900R
+L_Radial_D12.0mm_P6.00mm_MuRATA_1900R
 Inductor, Radial series, Radial, pin pitch=6.00mm, , diameter=12.0mm, MuRATA, 1900R, http://www.murata-ps.com/data/magnetics/kmp_1900r.pdf
 Inductor Radial series Radial pin pitch 6.00mm  diameter 12.0mm MuRATA 1900R
 0
@@ -54698,35 +54341,35 @@ Inductor Radial series Radial pin pitch 24.00mm  diameter 24mm
 2
 2
 Inductor_THT
-L_Radial_D24.4mm_P22.90mm_Murata_1400series
+L_Radial_D24.4mm_P22.90mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=22.90mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 22.90mm  diameter 24.4mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D24.4mm_P23.10mm_Murata_1400series
+L_Radial_D24.4mm_P23.10mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=23.10mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 23.10mm  diameter 24.4mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D24.4mm_P23.40mm_Murata_1400series
+L_Radial_D24.4mm_P23.40mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=23.40mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 23.40mm  diameter 24.4mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D24.4mm_P23.70mm_Murata_1400series
+L_Radial_D24.4mm_P23.70mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=23.70mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 23.70mm  diameter 24.4mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D24.4mm_P23.90mm_Murata_1400series
+L_Radial_D24.4mm_P23.90mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=23.90mm, , diameter=24.4mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 23.90mm  diameter 24.4mm muRATA 1400series
 0
@@ -54761,35 +54404,35 @@ Inductor Radial series Radial pin pitch 29.20mm  diameter 28mm
 2
 2
 Inductor_THT
-L_Radial_D29.8mm_P28.30mm_Murata_1400series
+L_Radial_D29.8mm_P28.30mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=28.30mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 28.30mm  diameter 29.8mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D29.8mm_P28.50mm_Murata_1400series
+L_Radial_D29.8mm_P28.50mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=28.50mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 28.50mm  diameter 29.8mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D29.8mm_P28.80mm_Murata_1400series
+L_Radial_D29.8mm_P28.80mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=28.80mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 28.80mm  diameter 29.8mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D29.8mm_P29.00mm_Murata_1400series
+L_Radial_D29.8mm_P29.00mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=29.00mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 29.00mm  diameter 29.8mm muRATA 1400series
 0
 2
 2
 Inductor_THT
-L_Radial_D29.8mm_P29.30mm_Murata_1400series
+L_Radial_D29.8mm_P29.30mm_muRATA_1400series
 Inductor, Radial series, Radial, pin pitch=29.30mm, , diameter=29.8mm, muRATA, 1400series, http://www.murata-ps.com/data/magnetics/kmp_1400.pdf
 Inductor Radial series Radial pin pitch 29.30mm  diameter 29.8mm muRATA 1400series
 0
@@ -55566,6 +55209,13 @@ LED
 4
 2
 LED_SMD
+LED_0201_0603Metric_Castellated
+LED SMD 0201 (0603 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+4
+2
+LED_SMD
 LED_0201_0603Metric_Pad0.64x0.40mm_HandSolder
 LED SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
 LED handsolder
@@ -55576,6 +55226,13 @@ LED_SMD
 LED_0402_1005Metric
 LED SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
+0
+2
+2
+LED_SMD
+LED_0402_1005Metric_Castellated
+LED SMD 0402 (1005 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
 0
 2
 2
@@ -55594,6 +55251,13 @@ LED
 2
 2
 LED_SMD
+LED_0603_1608Metric_Castellated
+LED SMD 0603 (1608 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
 LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder
 LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED handsolder
@@ -55608,6 +55272,13 @@ LED
 2
 2
 LED_SMD
+LED_0805_2012Metric_Castellated
+LED SMD 0805 (2012 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
 LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
 LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 LED handsolder
@@ -55618,6 +55289,13 @@ LED_SMD
 LED_1206_3216Metric
 LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED
+0
+2
+2
+LED_SMD
+LED_1206_3216Metric_Castellated
+LED SMD 1206 (3216 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
 0
 2
 2
@@ -55643,6 +55321,13 @@ LED
 2
 2
 LED_SMD
+LED_1210_3225Metric_Castellated
+LED SMD 1210 (3225 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
 LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder
 LED SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED handsolder
@@ -55653,6 +55338,13 @@ LED_SMD
 LED_1812_4532Metric
 LED SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
 LED
+0
+2
+2
+LED_SMD
+LED_1812_4532Metric_Castellated
+LED SMD 1812 (4532 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: https://www.nikhef.nl/pub/departments/mt/projects/detectorR_D/dtddice/ERJ2G.pdf), generated with kicad-footprint-generator
+LED castellated
 0
 2
 2
@@ -55671,6 +55363,13 @@ LED
 2
 2
 LED_SMD
+LED_2010_5025Metric_Castellated
+LED SMD 2010 (5025 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
 LED_2010_5025Metric_Pad1.52x2.65mm_HandSolder
 LED SMD 2010 (5025 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 LED handsolder
@@ -55685,8 +55384,36 @@ LED
 2
 2
 LED_SMD
+LED_2512_6332Metric_Castellated
+LED SMD 2512 (6332 Metric), castellated end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
 LED_2512_6332Metric_Pad1.52x3.35mm_HandSolder
 LED SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+LED_SMD
+LED_2816_7142Metric
+LED SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+LED
+0
+2
+2
+LED_SMD
+LED_2816_7142Metric_Castellated
+LED SMD 2816 (7142 Metric), castellated end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
+LED castellated
+0
+2
+2
+LED_SMD
+LED_2816_7142Metric_Pad3.20x4.45mm_HandSolder
+LED SMD 2816 (7142 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/30100/wsl.pdf), generated with kicad-footprint-generator
 LED handsolder
 0
 2
@@ -55867,13 +55594,6 @@ LED RGB
 4
 4
 LED_SMD
-LED_Lumex_SML-LX0404SIUPGUSB
-Lumex RGB LED, clear, SMD, https://www.lumex.com/spec/SML-LX0404SIUPGUSB.pdf
-LED RGB
-0
-4
-4
-LED_SMD
 LED_Osram_Lx_P47F_D2mm_ReverseMount
 OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
 LED ReverseMount Reverse
@@ -55936,13 +55656,6 @@ RGB LED PLCC-6
 0
 6
 6
-LED_SMD
-LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
-3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
-LED RGB Wurth PLCC-4
-0
-4
-4
 LED_SMD
 LED_ROHM_SMLVN6
 https://www.rohm.com/datasheet/SMLVN6RGB1U
@@ -56260,21 +55973,21 @@ LED diameter 5.0mm z-position of LED center 3.0mm 3 pins diameter 5.0mm z-positi
 3
 LED_THT
 LED_D5.0mm-4_RGB
-LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
 LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
 0
 4
 4
 LED_THT
 LED_D5.0mm-4_RGB_Staggered_Pins
-LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED, diameter 5.0mm, 4 pins, WP154A4, http://webtest4.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
 rgb led
 0
 4
 4
 LED_THT
 LED_D5.0mm-4_RGB_Wide_Pins
-LED, diameter 5.0mm, 4 pins, WP154A4, https://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.11A).pdf
+LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf
 LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins RGB RGBLED
 0
 4
@@ -56595,90 +56308,6 @@ A20 Olimex Olinuxino LIME2 development board
 180
 180
 Module
-Adafruit_Feather
-Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification
-Adafruit Feather
-0
-28
-28
-Module
-Adafruit_Feather_32u4_FONA
-Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona
-Adafruit Feather 32u4 FONA
-0
-28
-28
-Module
-Adafruit_Feather_32u4_FONA_WithMountingHoles
-Footprint for the Adafruit Feather 32u4 FONA board, https://learn.adafruit.com/adafruit-feather-32u4-fona
-Adafruit Feather 32u4 FONA
-0
-28
-28
-Module
-Adafruit_Feather_32u4_RFM
-Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module
-Adafruit Feather 32u4 RFM
-0
-31
-31
-Module
-Adafruit_Feather_32u4_RFM_WithMountingHoles
-Footprint for the Adafruit Feather 32u4 RFM series of boards, https://learn.adafruit.com/adafruit-feather-32u4-radio-with-rfm69hcw-module
-Adafruit Feather 32u4 RFM
-0
-31
-31
-Module
-Adafruit_Feather_M0_RFM
-Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio
-Adafruit Feather M0 RFM
-0
-32
-32
-Module
-Adafruit_Feather_M0_RFM_WithMountingHoles
-Footprint for the Adafruit Feather M0 RFM series of boards, e.g. https://learn.adafruit.com/adafruit-feather-m0-radio-with-rfm69-packet-radio
- Adafruit Feather M0 RFM
-0
-32
-32
-Module
-Adafruit_Feather_M0_Wifi
-Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/
-Adafruit Feather M0 Wifi
-0
-28
-28
-Module
-Adafruit_Feather_M0_Wifi_WithMountingHoles
-Footprint for the Adafruit Feather M0 Wifi board, https://learn.adafruit.com/adafruit-feather-m0-wifi-atwinc1500/
-Adafruit Feather M0 Wifi
-0
-28
-28
-Module
-Adafruit_Feather_WICED
-Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi
-Adafruit Feather WICED Wifi
-0
-29
-29
-Module
-Adafruit_Feather_WICED_WithMountingHoles
-Footprint for the Adafruit Feather WICED Wifi board, https://learn.adafruit.com/introducing-the-adafruit-wiced-feather-wifi
-Adafruit Feather WICED Wifi
-0
-29
-29
-Module
-Adafruit_Feather_WithMountingHoles
-Common footprint for the Adafruit Feather series of boards, https://learn.adafruit.com/adafruit-feather/feather-specification
-Adafruit Feather
-0
-28
-28
-Module
 Adafruit_HUZZAH_ESP8266_breakout
 32-bit microcontroller module with WiFi, https://www.adafruit.com/product/2471
 ESP8266 WiFi microcontroller
@@ -56742,13 +56371,6 @@ PocketBeagle
 72
 72
 Module
-Carambola2
-8devices Carambola2, OpenWRT, industrial SoM computer, https://www.8devices.com/media/products/carambola2/downloads/carambola2-datasheet.pdf
-carambola2 8devices
-0
-104
-52
-Module
 Maple_Mini
 Maple Mini, http://docs.leaflabs.com/static.leaflabs.com/pub/leaflabs/maple-docs/0.0.12/hardware/maple-mini.html
 Maple Mini
@@ -56797,13 +56419,6 @@ ST Morpho Connector 144 STLink
 0
 148
 148
-Module
-Sipeed-M1
-AI accelerated MCU with optional wifi, https://dl.sipeed.com/MAIX/HDK/Sipeed-M1&M1W/Specifications
-AI Kendryte K210 RISC-V
-0
-85
-77
 Module
 Texas_EUK_R-PDSS-T7_THT
 Texas Instruments EUK 7 Pin Double Sided Module
@@ -59976,13 +59591,6 @@ SMD SMT crystal oscillator hand-soldering
 4
 4
 Oscillator
-Oscillator_SMD_Fox_FT5H_5.0x3.2mm
-https://foxonline.com/wp-content/uploads/pdfs/T5HN_T5HV.pdf
-Fox TXCO temperature compensated oscillator
-0
-4
-4
-Oscillator
 Oscillator_SMD_IDT_JS6-6_5.0x3.2mm_P1.27mm
 SMD Crystal Oscillator IDT https://www.idt.com/document/dst/xu-family-datasheet#page=15, 5.0x3.2mm
 SMD SMT crystal oscillator
@@ -60284,8 +59892,8 @@ BGA-121
 121
 121
 Package_BGA
-BGA-132_12x18mm_Layout11x17_P1.0mm
-BGA-132 11x17 12x18mm 1.0pitch
+BGA-132_12x18mm_Layout11x17_P0.5mm
+BGA-132 11x17 12x18mm 0.5pitch
 BGA-132
 0
 132
@@ -60325,13 +59933,6 @@ Altera UBGA U169 BGA-169
 0
 169
 169
-Package_BGA
-BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm
-BGA-200, 14.5x10.0mm, 200 Ball, 12x22 Layout, 0.8x0.65mm Pitch, http://www.issi.com/WW/pdf/43-46LQ32256A-AL.pdf
-BGA 200 0.8x0.65
-0
-200
-200
 Package_BGA
 BGA-256_11.0x11.0mm_Layout20x20_P0.5mm_Ball0.3mm_Pad0.25mm_NSMD
 Altera MBGA-256, https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/packaging/04r00348-01.pdf
@@ -60459,13 +60060,6 @@ BGA 8 0.4
 8
 8
 Package_BGA
-Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35
-Infineon LFBGA-292, 0.35mm pad, 17.0x17.0mm, 292 Ball, 20x20 Layout, 0.8mm Pitch, https://www.infineon.com/cms/en/product/packages/PG-LFBGA/PG-LFBGA-292-11/
-BGA 292 0.8
-0
-292
-292
-Package_BGA
 LFBGA-100_10x10mm_Layout10x10_P0.8mm
 LFBGA-100, 10x10 raster, 10x10mm package, pitch 0.8mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f103tb.pdf
 BGA 100 0.8
@@ -60500,13 +60094,6 @@ BGA 381 0.8
 0
 381
 381
-Package_BGA
-Lattice_caBGA-756_27.0x27.0mm_Layout32x32_P0.8mm
-Lattice caBGA-756, ECP5 FPGAs, 27.0x27.0mm, 756 Ball, 32x32 Layout, 0.8mm Pitch, http://www.latticesemi.com/view_document?document_id=213
-BGA 756 0.8
-0
-756
-756
 Package_BGA
 Linear_BGA-133_15.0x15.0mm_Layout12x12_P1.27mm
 Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
@@ -60780,13 +60367,6 @@ VFBGA-49
 0
 49
 49
-Package_BGA
-VFBGA-86_6x6mm_Layout10x10_P0.55mm_Ball0.25mm_Pad0.2mm
-VFBGA-86, 6.0x6.0mm, 86 Ball, 10x10 Layout, 0.55mm Pitch, https://www.dialog-semiconductor.com/sites/default/files/da1469x_datasheet_3v1.pdf#page=740
-BGA 86 0.55
-0
-86
-86
 Package_BGA
 VFBGA-100_7.0x7.0mm_Layout10x10_P0.65mm
 VFBGA-100, 10x10, 7x7mm package, pitch 0.65mm
@@ -61145,23 +60725,9 @@ LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm
 9
 9
 Package_CSP
-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm
-LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-13
-9
-Package_CSP
-LFCSP-8-1EP_3x3mm_P0.5mm_EP1.6x2.34mm_ThermalVias
-LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_11.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
-0
-20
-9
-Package_CSP
 LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm
-LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-8/CP_8_13.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-LFCSP NoLead
+LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-8/CP_8_13.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+LFCSP DFN_QFN
 0
 13
 9
@@ -61712,13 +61278,6 @@ BGA 180 0.4
 180
 180
 Package_CSP
-WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
-X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
-CSP 4 0.5
-0
-4
-4
-Package_CSP
 WLCSP-6_1.4x1.0mm_P0.4mm
 6pin Pitch 0.4mm
 6pin Pitch 0.4mm WLCSP
@@ -61729,13 +61288,6 @@ Package_CSP
 WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD
 WLCSP/XFBGA 8-pin package, staggered pins, http://www.adestotech.com/wp-content/uploads/DS-AT25DF041B_040.pdf
 WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top
-0
-8
-8
-Package_CSP
-WLCSP-8_1.551x2.284mm_P0.5mm
-WLCSP-8, 2.284x1.551mm, 8 Ball, 2x4 Layout, 0.5mm Pitch, https://www.adestotech.com/wp-content/uploads/AT25SL321_112.pdf#page=75
-CSP 8 0.5
 0
 8
 8
@@ -61753,13 +61305,6 @@ CSP 12 0.2x0.346333
 0
 12
 12
-Package_CSP
-WLCSP-16_1.409x1.409mm_P0.35mm
-WLCSP-16, 1.409x1.409mm, 16 Ball, 4x4 Layout, 0.35mm Pitch, http://www.latticesemi.com/view_document?document_id=213
-CSP 16 0.35
-0
-16
-16
 Package_CSP
 WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
 WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf
@@ -62006,20 +61551,6 @@ DFN 0.45
 13
 9
 Package_DFN_QFN
-DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm
-DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-10
-9
-Package_DFN_QFN
-DFN-8-1EP_3x3mm_P0.5mm_EP1.65x2.38mm_ThermalVias
-DFN, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4320fb.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-20
-9
-Package_DFN_QFN
 DFN-8-1EP_3x3mm_P0.5mm_EP1.66x2.38mm
 DD Package; 8-Lead Plastic DFN (3mm x 3mm) (see Linear Technology DFN_8_05-08-1698.pdf)
 DFN 0.5
@@ -62209,13 +61740,6 @@ DFN 0.5
 23
 15
 Package_DFN_QFN
-DFN-14_1.35x3.5mm_P0.5mm
-DFN, 14 Pin (https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py
-DFN NoLead
-0
-14
-14
-Package_DFN_QFN
 DFN-16-1EP_3x4mm_P0.45mm_EP1.7x3.3mm
 DE Package; 16-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_16_05-08-1732.pdf)
 DFN 0.45
@@ -62355,34 +61879,6 @@ HVQFN NoLead
 0
 39
 25
-Package_DFN_QFN
-HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
-HVQFN, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT617-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-HVQFN NoLead
-0
-42
-33
-Package_DFN_QFN
-HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
-HVQFN, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT617-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-HVQFN NoLead
-0
-59
-33
-Package_DFN_QFN
-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm
-HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-HVQFN NoLead
-0
-50
-41
-Package_DFN_QFN
-HVQFN-40-1EP_6x6mm_P0.5mm_EP4.1x4.1mm_ThermalVias
-HVQFN, 40 Pin (https://www.nxp.com/docs/en/package-information/SOT618-1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-HVQFN NoLead
-0
-67
-41
 Package_DFN_QFN
 Infineon_MLPQ-16-14-1EP_4x4mm_P0.5mm
 MLPQ 32 leads, 7x7mm, 0.127mm stencil (https://www.infineon.com/dgdl/Infineon-AN1170-AN-v05_00-EN.pdf?fileId=5546d462533600a40153559ac3e51134)
@@ -62552,20 +62048,6 @@ FG873
 4
 4
 Package_DFN_QFN
-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45
-LQFN, 48 Pin (https://www.nxp.com/docs/en/package-information/98ASA00694D.pdf)
-NXP LQFN NoLead
-0
-65
-49
-Package_DFN_QFN
-NXP_LQFN-48-1EP_7x7mm_P0.5mm_EP3.5x3.5mm_16xMask0.45x0.45_ThermalVias
-LQFN, 48 Pin (https://www.nxp.com/docs/en/package-information/98ASA00694D.pdf)
-NXP LQFN NoLead
-0
-75
-49
-Package_DFN_QFN
 Nordic_AQFN-73-1EP_7x7mm_P0.5mm
 http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html
 AQFN 7mm 
@@ -62580,13 +62062,6 @@ DFN 0.5
 8
 8
 Package_DFN_QFN
-OnSemi_SIP-38-6EP-9x7mm_P0.65mm_EP1.2x1.2mm
-On Semiconductor, SIP-38, 9x7mm, (https://www.onsemi.com/pub/Collateral/AX-SIP-SFEU-D.PDF#page=19)
-On Semiconductor SIP
-0
-44
-44
-Package_DFN_QFN
 OnSemi_UDFN-8_1.2x1.8mm_P0.4mm
 8-Lead Plastic Dual Flat, No Lead Package, 1.2x1.8x1.55 mm Body [UDFN] (See http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF)
 dfn udfn dual flat
@@ -62595,18 +62070,11 @@ dfn udfn dual flat
 8
 Package_DFN_QFN
 OnSemi_VCT-28_3.5x3.5mm_P0.4mm
-OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
-OnSemi VCT NoLead
+OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+OnSemi VCT DFN_QFN
 0
 28
 28
-Package_DFN_QFN
-OnSemi_XDFN4-1EP_1.0x1.0mm_EP0.52x0.52mm
-XDFN4 footprint (as found on the https://www.onsemi.com/pub/Collateral/NCP115-D.PDF)
-OnSemi XDFN4
-0
-5
-5
 Package_DFN_QFN
 Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
 Panasonic HQFN-16, 4x4x0.85mm (https://industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HQFN016-A-0404XZL_EN.pdf)
@@ -62621,20 +62089,6 @@ panasonic hson
 0
 27
 9
-Package_DFN_QFN
-QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
-QFN, 12 Pin (https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-17
-13
-Package_DFN_QFN
-QFN-12-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
-QFN, 12 Pin (https://www.nxp.com/docs/en/data-sheet/MMZ09332B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-32
-13
 Package_DFN_QFN
 QFN-12-1EP_3x3mm_P0.5mm_EP1.65x1.65mm
 QFN, 12 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_12_%2005-08-1855.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -63016,20 +62470,6 @@ QFN NoLead
 Package_DFN_QFN
 QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_ThermalVias
 QFN, 24 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/hmc431.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-39
-25
-Package_DFN_QFN
-QFN-24-1EP_4x4mm_P0.5mm_EP2.15x2.15mm
-QFN, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-29
-25
-Package_DFN_QFN
-QFN-24-1EP_4x4mm_P0.5mm_EP2.15x2.15mm_ThermalVias
-QFN, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
 0
 39
@@ -63889,20 +63329,6 @@ QFN NoLead
 91
 65
 Package_DFN_QFN
-QFN-64-1EP_9x9mm_P0.5mm_EP5.2x5.2mm
-QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf#page=51), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-81
-65
-Package_DFN_QFN
-QFN-64-1EP_9x9mm_P0.5mm_EP5.2x5.2mm_ThermalVias
-QFN, 64 Pin (https://www.silabs.com/documents/public/data-sheets/Si5345-44-42-D-DataSheet.pdf#page=51), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
-0
-107
-65
-Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/70593d.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -64122,13 +63548,6 @@ TDFN NoLead
 Package_DFN_QFN
 TDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm
 TDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6V66-Family-Data-Sheet-DS20006266A.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
-TDFN NoLead
-0
-13
-9
-Package_DFN_QFN
-TDFN-8-1EP_3x2mm_P0.5mm_EP1.4x1.4mm
-TDFN, 8 Pin (http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
 TDFN NoLead
 0
 13
@@ -64371,20 +63790,6 @@ TQFN NoLead
 0
 75
 49
-Package_DFN_QFN
-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm
-Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
-Texas instruments QFN
-0
-15
-15
-Package_DFN_QFN
-Texas_B3QFN-14-1EP_5x5.5mm_P0.65mm_ThermalVia
-Texas instruments QFN Package, datasheet: https://www.ti.com/lit/ds/symlink/tpsm53602.pdf
-Texas instruments QFN
-0
-34
-15
 Package_DFN_QFN
 Texas_DRB0008A
 DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf
@@ -64869,20 +64274,6 @@ UDFN 0.5 uQFN
 10
 10
 Package_DFN_QFN
-UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm
-UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-UFQFPN NoLead
-0
-37
-33
-Package_DFN_QFN
-UFQFPN-32-1EP_5x5mm_P0.5mm_EP3.5x3.5mm_ThermalVias
-UFQFPN, 32 Pin (https://www.st.com/resource/en/datasheet/stm32g071k8.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-UFQFPN NoLead
-0
-47
-33
-Package_DFN_QFN
 UQFN-10_1.3x1.8mm_P0.4mm
 UQFN, 10 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00001725D.pdf (Page 9)), generated with kicad-footprint-generator ipc_noLead_generator.py
 UQFN NoLead
@@ -64959,13 +64350,6 @@ UQFN NoLead
 0
 35
 21
-Package_DFN_QFN
-UQFN-20_3x3mm_P0.4mm
-UQFN, 20 Pin (https://resurgentsemi.com/wp-content/uploads/2018/09/MPR121_rev5-Resurgent.pdf?d453f8&d453f8), generated with kicad-footprint-generator ipc_noLead_generator.py
-UQFN NoLead
-0
-20
-20
 Package_DFN_QFN
 UQFN-28-1EP_4x4mm_P0.4mm_EP2.35x2.35mm
 UQFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=338), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -65198,20 +64582,6 @@ VQFN NoLead
 66
 47
 Package_DFN_QFN
-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
-VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py
-VQFN NoLead
-0
-58
-49
-Package_DFN_QFN
-VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias
-VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py
-VQFN NoLead
-0
-75
-49
-Package_DFN_QFN
 VQFN-48-1EP_7x7mm_P0.5mm_EP5.15x5.15mm
 VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc1312r.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
 VQFN NoLead
@@ -65226,39 +64596,11 @@ VQFN NoLead
 79
 49
 Package_DFN_QFN
-VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm
-VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF19195-6-7-Data-Sheet-40001873D.pdf#page=718), generated with kicad-footprint-generator ipc_noLead_generator.py
-VQFN NoLead
-0
-74
-65
-Package_DFN_QFN
-VQFN-64-1EP_9x9mm_P0.5mm_EP5.4x5.4mm_ThermalVias
-VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF19195-6-7-Data-Sheet-40001873D.pdf#page=718), generated with kicad-footprint-generator ipc_noLead_generator.py
-VQFN NoLead
-0
-100
-65
-Package_DFN_QFN
-WDFN-6-2EP_4.0x2.6mm_P0.65mm
-WDFN, 6 pin, 4.0x2.6, 0.65P; Two exposed pads, (https://www.onsemi.com/pub/Collateral/511BZ.PDF)
-DFN 0.65P dual flag
-0
-8
-8
-Package_DFN_QFN
 WDFN-8-1EP_2x2.2mm_P0.5mm_EP0.80x0.54
 https://www.onsemi.com/pub/Collateral/511BN.PDF
 WDFN-8 1EP 2.2X2.0 0.5P
 0
 9
-9
-Package_DFN_QFN
-WDFN-8-1EP_2x2mm_P0.5mm_EP0.8x1.2mm
-WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/20005474E.pdf#page=25), generated with kicad-footprint-generator ipc_noLead_generator.py
-WDFN NoLead
-0
-13
 9
 Package_DFN_QFN
 WDFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.4mm
@@ -65280,13 +64622,6 @@ WDFN, 8 Pin (https://www.onsemi.com/pub/Collateral/509AF.PDF), generated with ki
 WDFN NoLead
 0
 20
-9
-Package_DFN_QFN
-WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm
-WDFN, 8 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/8L_WDFN_5x6mm_MF_C04210B.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-WDFN NoLead
-0
-13
 9
 Package_DFN_QFN
 WDFN-8_2x2mm_P0.5mm
@@ -65364,20 +64699,6 @@ http://www.onsemi.com/pub/Collateral/510CD.PDF
 WQFN-20 4.5mm 2.5mm 0.5mm
 0
 24
-21
-Package_DFN_QFN
-WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm
-WQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/ts3ds10224.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-25
-21
-Package_DFN_QFN
-WQFN-20-1EP_3x3mm_P0.4mm_EP1.7x1.7mm_ThermalVias
-WQFN, 20 Pin (https://www.ti.com/lit/ds/symlink/ts3ds10224.pdf#page=29), generated with kicad-footprint-generator ipc_noLead_generator.py
-WQFN NoLead
-0
-30
 21
 Package_DFN_QFN
 WQFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
@@ -67487,13 +66808,6 @@ lga land grid array
 14
 14
 Package_LGA
-Kionix_LGA-12_2x2mm_P0.5mm_LayoutBorder2x4y
-Kionix  LGA, 12 Pin (http://kionixfs.kionix.com/en/document/TN008-PCB-Design-Guidelines-for-2x2-LGA-Sensors.pdf#page=4), generated with kicad-footprint-generator ipc_noLead_generator.py
-Kionix LGA NoLead
-0
-12
-12
-Package_LGA
 LGA-8_3x5mm_P1.25mm
 LGA-8
 lga land grid array
@@ -68041,8 +67355,8 @@ TQFP QFP
 49
 Package_QFP
 TQFP-48_7x7mm_P0.5mm
-TQFP, 48 Pin (https://www.jedec.org/system/files/docs/MS-026D.pdf var ABC), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TQFP QFP
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
 0
 48
 48
@@ -68334,20 +67648,6 @@ SSOP 0.65
 27
 21
 Package_SO
-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm
-HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HSOP SO
-0
-13
-9
-Package_SO
-HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm_ThermalVias
-HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l7980.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HSOP SO
-0
-18
-9
-Package_SO
 HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.1mm
 HSOP, 8 Pin (https://www.st.com/resource/en/datasheet/l5973d.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 HSOP SO
@@ -68621,33 +67921,12 @@ HTSSOP SO
 87
 39
 Package_SO
-HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
-HTSSOP, 44 Pin (http://www.ti.com/lit/ds/symlink/tpa3251.pdf#page=38), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
-0
-44
-44
-Package_SO
 HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
 HTSSOP56: plastic thin shrink small outline package http://www.ti.com/lit/ds/symlink/drv8301.pdf
 HTSSOP 0.5
 0
 72
 57
-Package_SO
-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm
-HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HVSSOP SO
-0
-15
-11
-Package_SO
-HVSSOP-10-1EP_3x3mm_P0.5mm_EP1.57x1.88mm_ThermalVias
-HVSSOP, 10 Pin (https://www.ti.com/lit/ds/symlink/bq24090.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HVSSOP SO
-0
-20
-11
 Package_SO
 Infineon_PG-DSO-8-27_3.9x4.9mm_EP2.65x3mm
 Infineon  PG-DSO, 8 Pin (https://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-27), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -69237,20 +68516,6 @@ SOIC SO
 20
 9
 Package_SO
-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm
-SOIC, 8 Pin (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2303A/document_id/494#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-13
-9
-Package_SO
-SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.62x3.51mm_ThermalVias
-SOIC, 8 Pin (https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2303A/document_id/494#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-20
-9
-Package_SO
 SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.71x3.4mm
 SOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lm5017.pdf#page=31), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOIC SO
@@ -69285,13 +68550,6 @@ SOIC 1.27
 0
 7
 7
-Package_SO
-SOIC-8W_5.3x5.3mm_P1.27mm
-8-Lead Plastic Small Outline (SM) - 5.28 mm Body [SOIC] (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf)
-SOIC 1.27
-0
-8
-8
 Package_SO
 SOIC-8_3.9x4.9mm_P1.27mm
 SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -69419,6 +68677,13 @@ SOIC SO
 28
 28
 Package_SO
+SOIJ-8_5.3x5.3mm_P1.27mm
+8-Lead Plastic Small Outline (SM) - Medium, 5.28 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Package_SO
 SOJ-36_10.16x23.49mm_P1.27mm
 SOJ, 36 Pin (http://www.issi.com/WW/pdf/61-64C5128AL.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOJ SO
@@ -69545,13 +68810,6 @@ SSO Stretched SO SOIC 1.27
 6
 6
 Package_SO
-SSO-7-8_6.4x9.78mm_P2.54mm
-SSO, 7 Pin (https://b2b-api.panasonic.eu/file_stream/pids/fileversion/2787), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SSO SO
-0
-7
-7
-Package_SO
 SSO-8_6.7x9.8mm_P2.54mm_Clearance8mm
 8-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/83831/lh1533ab.pdf
 SSO Stretched SO SOIC Pitch 2.54
@@ -69644,8 +68902,8 @@ SSOP 0.65
 16
 Package_SO
 SSOP-16_5.3x6.2mm_P0.65mm
-SSOP, 16 Pin (https://assets.nexperia.com/documents/data-sheet/74HC_HCT165.pdf#page=14), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SSOP SO
+SSOP16: plastic shrink small outline package; 16 leads; body width 5.3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot338-1_po.pdf)
+SSOP 0.65
 0
 16
 16
@@ -69719,13 +68977,6 @@ SSOP 0.5
 0
 44
 44
-Package_SO
-SSOP-48_5.3x12.8mm_P0.5mm
-SSOP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-ssop/05081887_A_G48.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SSOP SO
-0
-48
-48
 Package_SO
 SSOP-48_7.5x15.9mm_P0.635mm
 SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)
@@ -69937,20 +69188,6 @@ SSOP 0.65
 24
 17
 Package_SO
-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm
-TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-21
-17
-Package_SO
-TSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm_ThermalVias
-TSSOP, 16 Pin (Allegro A4954 https://www.allegromicro.com/-/media/Files/Datasheets/A4954-Datasheet.ashx), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-26
-17
-Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -69971,13 +69208,6 @@ TSSOP SO
 0
 20
 20
-Package_SO
-TSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.2x5mm
-TSSOP, 24 Pin (https://www.st.com/resource/en/datasheet/led1642gw.pdf#page=37), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSSOP SO
-0
-31
-25
 Package_SO
 TSSOP-24_4.4x5mm_P0.4mm
 TSSOP, 24 Pin (JEDEC MO-153 Var CA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -70630,6 +69860,20 @@ Texas_S-PVSON-N10_ThermalVias
 39
 11
 Package_SON
+Texas_S-PWSON-N8_EP1.2x2mm
+WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+11
+9
+Package_SON
+Texas_S-PWSON-N8_EP1.2x2mm_ThermalVias
+WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
+WSON NoLead
+0
+18
+9
+Package_SON
 Texas_S-PWSON-N10
 3x3mm Body, 0.5mm Pitch, S-PWSON-N10, DSC, http://www.ti.com/lit/ds/symlink/tps63060.pdf
 0.5 S-PWSON-N10 DSC
@@ -70763,81 +70007,11 @@ WSON NoLead
 18
 9
 Package_SON
-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm
-WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-11
-9
-Package_SON
-WSON-8-1EP_3x3mm_P0.5mm_EP1.2x2mm_ThermalVias
-WSON, 8 Pin (http://www.ti.com/lit/ds/symlink/lp2951.pdf#page=27), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-18
-9
-Package_SON
 WSON-8-1EP_3x3mm_P0.5mm_EP1.6x2.0mm
 8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
 WSON 8 1EP
 0
 13
-9
-Package_SON
-WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-11
-9
-Package_SON
-WSON-8-1EP_3x3mm_P0.5mm_EP1.45x2.4mm_ThermalVias
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/ina333.pdf#page=30), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-18
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lm5017.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-13
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP1.98x3mm_ThermalVias
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lm5017.pdf#page=34), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-17
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-13
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP2.2x3mm_ThermalVias
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-17
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP2.6x3mm
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2951-n.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-13
-9
-Package_SON
-WSON-8-1EP_4x4mm_P0.8mm_EP2.6x3mm_ThermalVias
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2951-n.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-17
 9
 Package_SON
 WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4.3mm
@@ -70852,6 +70026,13 @@ WSON, 8 Pin (http://ww1.microchip.com/downloads/en/AppNotes/S72030.pdf), generat
 WSON NoLead
 0
 13
+9
+Package_SON
+WSON-8_4x4mm_P0.8mm
+http://www.ti.com/lit/ml/mpds406/mpds406.pdf
+WSON8_4x4mm_P0.8mm
+0
+9
 9
 Package_SON
 WSON-10-1EP_2.5x2.5mm_P0.5mm_EP1.2x2mm
@@ -71057,13 +70238,6 @@ LFPAK56 SOT-669 Power-SO8
 18
 5
 Package_TO_SOT_SMD
-Nexperia_CFP15_SOT-1289
-Nexperia CFP15 (SOT-1289), https://assets.nexperia.com/documents/outline-drawing/SOT1289.pdf
-SOT-1289 CFP15
-0
-8
-3
-Package_TO_SOT_SMD
 OnSemi_ECH8
 On Semiconductor ECH8, https://www.onsemi.com/pub/Collateral/318BF.PDF
 ECH8 SOT28-FL SOT-28-FL
@@ -71163,8 +70337,8 @@ SOT-23
 3
 Package_TO_SOT_SMD
 SOT-23-5
-SOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
+5-pin SOT23 package
+SOT-23-5
 0
 5
 5
@@ -71177,8 +70351,8 @@ SOT-23-5 hand-soldering
 5
 Package_TO_SOT_SMD
 SOT-23-6
-SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
+6-pin SOT-23 package
+SOT-23-6
 0
 6
 6
@@ -71191,8 +70365,8 @@ SOT-23-6 Handsoldering
 6
 Package_TO_SOT_SMD
 SOT-23-8
-SOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOT TO_SOT_SMD
+8-pin SOT-23 package, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/sot-23rj/rj_8.pdf
+SOT-23-8
 0
 8
 8
@@ -71744,8 +70918,8 @@ TSOT-23
 3
 Package_TO_SOT_SMD
 TSOT-23-5
-TSOT, 5 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSOT TO_SOT_SMD
+5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf
+TSOT-23-5
 0
 5
 5
@@ -71758,8 +70932,8 @@ TSOT-23-5 Hand-soldering
 5
 Package_TO_SOT_SMD
 TSOT-23-6
-TSOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant AA), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSOT TO_SOT_SMD
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6
 0
 6
 6
@@ -71772,8 +70946,8 @@ TSOT-23-6 MK06A TSOT-6 Hand-soldering
 6
 Package_TO_SOT_SMD
 TSOT-23-8
-TSOT, 8 Pin (https://www.jedec.org/sites/default/files/docs/MO-193D.pdf variant BA), generated with kicad-footprint-generator ipc_gullwing_generator.py
-TSOT TO_SOT_SMD
+8-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_8_05-08-1637.pdf
+TSOT-23-8
 0
 8
 8
@@ -71840,13 +71014,6 @@ powerpak sc70 sc-70
 0
 6
 3
-Package_TO_SOT_THT
-Analog_TO-46-4_ThermalShield
-TO-46-4 with Valox case, based on https://www.analog.com/media/en/technical-documentation/data-sheets/199399fc.pdf
-TO-46-4 LM399
-0
-4
-4
 Package_TO_SOT_THT
 Fairchild_TO-220F-6L
 Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf
@@ -74487,20 +73654,6 @@ Johanson balun filter
 6
 6
 RF_Converter
-Balun_Johanson_0896BM15A0001
-https://www.johansontechnology.com/datasheets/0896BM15A0001/0896BM15A0001.pdf
-balun RF
-0
-6
-6
-RF_Converter
-Balun_Johanson_0900PC15J0013
-Johanson 0900PC15J0013 DFN, 10 Pin (https://www.johansontechnology.com/datasheets/0900PC15J0013/0900PC15J0013.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
-Johanson DFN NoLead
-0
-10
-10
-RF_Converter
 Balun_Johanson_5400BL15B050E
 https://www.johansontechnology.com/datasheets/5400BL15B050/5400BL15B050.pdf
 balun RF
@@ -74521,13 +73674,6 @@ gps linx
 0
 22
 22
-RF_GPS
-Quectel_L80-R
-Quectel L80-R GPS Module, Patch on Top, https://www.quectel.com/UploadImage/Downlad/Quectel_L80-R_Hardware_Design_V1.2.pdf
-quectel GPS GNSS
-0
-12
-12
 RF_GPS
 SIM28ML
 https://simcom.ee/documents/SIM28ML/SIM28ML_Hardware%20Design_V1.01.pdf
@@ -74598,20 +73744,6 @@ GSM NB-IoT Module BC66 M66
 0
 116
 58
-RF_GSM
-Quectel_BC95
-GSM NB-IoT module, 19.9x23.6x2.2mm, https://www.quectel.com/UploadImage/Downlad/Quectel_BC95_Hardware_Design_V1.3.pdf
-GSM NB-IoT module BC95
-0
-188
-94
-RF_GSM
-Quectel_M95
-Quad-Band GSM/GPRS module, 19.9x23.6x2.65mm, https://www.quectel.com/UploadImage/Downlad/M95_Hardware_Design_V1.3.pdf
-GSM Module M95
-0
-84
-42
 RF_GSM
 SIMCom_SIM800C
 Quad-Band GSM/GPRS module, 17.6x15.7x2.3mm, http://simcom.ee/documents/SIM800C/SIM800C_Hardware_Design_V1.05.pdf
@@ -74879,13 +74011,6 @@ Bluetooth Module
 30
 30
 RF_Module
-BM78SPPS5XC2
-Bluetooth Dual-mode module with integral chip antenna (http://ww1.microchip.com/downloads/en/DeviceDoc/60001380C.pdf)
-Bluetooth BR/EDR BLE
-0
-33
-33
-RF_Module
 CMWX1ZZABZ
 https://wireless.murata.com/RFM/data/type_abz.pdf
 iot lora sigfox
@@ -75061,20 +74186,6 @@ Particle P1
 75
 75
 RF_Module
-RAK811
-RAK811 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK811/Hardware_Specification/RAK811_LoRa_Module_Datasheet_V1.4.pdf
-LoRa LoRaWAN RAK811
-0
-34
-34
-RF_Module
-RAK4200
-RAK4200 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf
-LoRa LoRaWAN RAK4200
-0
-20
-20
-RF_Module
 RFDigital_RFD77101
 RFDigital RFD77101 Simblee
 RFDigital RFD77101 Simblee
@@ -75102,13 +74213,6 @@ rf module lora lorawan
 0
 47
 47
-RF_Module
-Raytac_MDBT50Q
-Multiprotocol radio SoC module https://www.raytac.com/download/index.php?index_id=43
-wireless 2.4 GHz Bluetooth ble zigbee 802.15.4 thread nordic raytac nrf52840 nrf52833
-0
-61
-61
 RF_Module
 ST_SPBTLE
 Bluetooth Low Energy Module
@@ -77300,20 +76404,6 @@ SHT1x
 0
 8
 8
-Sensor
-Senseair_S8_Down
-Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT
-co2 gas sensor pwm modbus
-0
-9
-9
-Sensor
-Senseair_S8_Up
-Sensair S8 Series CO2 sensor, 1kHz PWM output, Modbus, THT
-co2 gas sensor pwm modbus
-0
-9
-9
 Sensor_Audio
 CUI_CMC-4013-SMT
 Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
@@ -77327,13 +76417,6 @@ Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en
 infineon mems microphone
 0
 15
-5
-Sensor_Audio
-Knowles_LGA-5_3.5x2.65mm
-https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf
-MEMS Microphone LGA
-0
-5
 5
 Sensor_Audio
 ST_HLGA-6_3.76x4.72mm_P1.65mm
@@ -77657,13 +76740,6 @@ pressure sensor automotive honeywell
 0
 3
 3
-Sensor_Pressure
-TE_MS5525DSO-DBxxxyS
-Pressure Sensor, Dual-Barbed, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5525DSO&DocType=DS&DocLang=English
-Pressure DualBarbed
-0
-14
-14
 Sensor_Voltage
 LEM_LV25-P
 LEM LV25-P Voltage transducer, https://www.lem.com/sites/default/files/products_datasheets/lv_25-p.pdf
@@ -84041,4539 +83117,3 @@ varistor SIOV
 0
 2
 2
-digikey-footprints
-3-SIP_Module_TM1000Q
-
-
-0
-3
-3
-digikey-footprints
-3-SIP_Module_V7805-500
-http://www.cui.com/product/resource/v78-500.pdf
-
-0
-3
-3
-digikey-footprints
-3-SIP_Module_V7805-1000
-http://www.cui.com/product/resource/v78xx-1000.pdf
-
-0
-3
-3
-digikey-footprints
-4-SMD_2.35x2.95mm
-
-
-0
-4
-4
-digikey-footprints
-6-DFN_3x3mm
-
-
-0
-7
-7
-digikey-footprints
-6-PLCC_3.5x3.5mm
-
-
-0
-6
-6
-digikey-footprints
-0603
-
-
-0
-2
-2
-digikey-footprints
-0805
-
-
-0
-2
-2
-digikey-footprints
-1206
-http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf
-
-0
-2
-2
-digikey-footprints
-1210
-http://www.murata-ps.com/data/magnetics/kmp_8200c.pdf
-
-0
-2
-2
-digikey-footprints
-2320
-
-
-0
-4
-4
-digikey-footprints
-AS-MLV-P2_9.1x9.1mm
-
-
-0
-4
-4
-digikey-footprints
-Air_Quality_Module_IAQ-CORE_P
-
-
-0
-6
-6
-digikey-footprints
-Altimeter_MS580314BA
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5803-14BA&DocType=Data+Sheet&DocLang=English
-
-0
-8
-8
-digikey-footprints
-Ambient_Prox_APDS-9960
-file:///C:/Users/chad_rosencrans/Downloads/AV02-4191EN_DS_Ambient_Prox_APDS-9960_2015-11-13.pdf
-
-0
-8
-8
-digikey-footprints
-Antenna_1.6x3.2mm_2450AT18A100E
-https://www.johansontechnology.com/datasheets/antennas/2450AT18A100.pdf
-
-0
-2
-2
-digikey-footprints
-BME680
-https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME680-DS001-00.pdf
-
-0
-8
-8
-digikey-footprints
-BMI160
-https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMI160-DS000-07.pdf
-
-0
-14
-14
-digikey-footprints
-Barrel_Jack_5.5mmODx2.1mmID_PJ-102A
-
-
-0
-3
-3
-digikey-footprints
-Barrel_Jack_5.5mmODx2.1mmID_PJ-202A
-
-
-0
-3
-3
-digikey-footprints
-Battery_Holder_9V_BC9VPC-ND
-http://www.memoryprotectiondevices.com/datasheets/BC9VPC-datasheet.pdf
-
-0
-2
-2
-digikey-footprints
-Battery_Holder_Coin_2032_BS-7
-http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf
-
-0
-2
-2
-digikey-footprints
-Bluetooth_Module_450-0064
-http://www.lsr.com/downloads/products/330-0087.pdf
-
-0
-165
-53
-digikey-footprints
-Bluetooth_Module_BC118
-
-
-0
-35
-35
-digikey-footprints
-Bluetooth_Module_BC127
-https://www.bluecreation.com/userfiles/DataSheet-BC127-latest3.pdf
-
-0
-51
-51
-digikey-footprints
-Bluetooth_Module_BL600-SA
-https://assets.lairdtech.com/home/brandworld/files/Datasheet%20-%20BL600.pdf
-
-0
-44
-44
-digikey-footprints
-Bluetooth_Module_BLE112-A-V1
-http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/BLE112.pdf
-
-0
-30
-30
-digikey-footprints
-Bluetooth_Module_BLE113-A-M256K
-
-
-0
-36
-36
-digikey-footprints
-Bluetooth_Module_BLE113-A-V1
-
-
-0
-36
-36
-digikey-footprints
-Bluetooth_Module_BLE121LR-A-M256K
-
-
-0
-36
-36
-digikey-footprints
-Bluetooth_Module_BM77
-
-
-0
-33
-33
-digikey-footprints
-Bluetooth_Module_BMD-300
-
-
-0
-47
-47
-digikey-footprints
-Bluetooth_Module_CYBLE-022001-00
-
-
-0
-21
-21
-digikey-footprints
-Bluetooth_Module_RFD22301
-
-
-0
-19
-19
-digikey-footprints
-Bluetooth_Module_RFD77101
-
-
-0
-45
-45
-digikey-footprints
-Bluetooth_Module_RN42
-
-
-0
-36
-33
-digikey-footprints
-Bluetooth_Module_RN42-I_RM
-
-
-0
-36
-33
-digikey-footprints
-Bluetooth_Module_RN52-IRM
-
-
-0
-50
-50
-digikey-footprints
-Bluetooth_Module_RN4020
-http://ww1.microchip.com/downloads/en/DeviceDoc/50002279B.pdf
-
-0
-22
-22
-digikey-footprints
-Bluetooth_Module_RN4677-VRM100
-
-
-0
-33
-33
-digikey-footprints
-Bluetooth_Module_WT12-A-AI5
-http://www.digikey.com/products/en?keywords=Bluetooth_Module_WT12-A-AI5
-
-0
-31
-31
-digikey-footprints
-Bluetooth_Module_WT32I-A-AI6
-
-
-0
-50
-50
-digikey-footprints
-CB-5_Formed_Leads
-
-
-0
-29
-5
-digikey-footprints
-Cellular_Breakout_2542
-
-
-0
-16
-16
-digikey-footprints
-Cellular_Modem_NL-SW-EVDO-V
-
-
-0
-20
-20
-digikey-footprints
-Cellular_Modem_NL-SW-LTE-GELS3-C
-http://nimbelink.com/Documentation/Skywire/4G_LTE_Cat_1/30122_NL-SW-LTE-GELS3_Datasheet.pdf
-
-0
-20
-20
-digikey-footprints
-Cellular_Modem_NL-SW-LTE-TSVG
-
-
-0
-20
-20
-digikey-footprints
-Coax_Conn_U.FL
-https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf
-
-0
-3
-2
-digikey-footprints
-DFN-6_3x3mm_EP1
-
-
-0
-7
-7
-digikey-footprints
-DFN-10_2x2mm
-https://media.digikey.com/pdf/Data%20Sheets/NXP%20PDFs/MMA8652FC.pdf
-
-0
-10
-10
-digikey-footprints
-DFN-10_3x3mm
-http://cache.freescale.com/files/sensors/doc/data_sheet/MMA7660FC.pdf
-
-0
-10
-10
-digikey-footprints
-DFN-12-1EP_3x3mm
-http://www.ftdichip.com/Support/Documents/TechnicalNotes/TN_166%20FTDI%20Example%20IC%20PCB%20Footprints.pdf
-
-0
-13
-13
-digikey-footprints
-DIP-4_W7.62mm
-http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf
-
-0
-4
-4
-digikey-footprints
-DIP-6_W7.62mm
-http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf
-
-0
-6
-6
-digikey-footprints
-DIP-8_W7.62mm
-http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/6N137%20Series.pdf
-
-0
-8
-8
-digikey-footprints
-DIP-10_W10.16mm
-
-
-0
-10
-10
-digikey-footprints
-DIP-14_W3mm
-
-
-0
-14
-14
-digikey-footprints
-DIP-16_W7.62mm
-
-
-0
-16
-16
-digikey-footprints
-DIP-18_W7.62mm
-http://www.ti.com/lit/ds/symlink/tpic6b595.pdf
-
-0
-18
-18
-digikey-footprints
-DIP-20_W7.62mm
-http://www.digikey.com/products/en?formaction=on&lang=en&site=us&KeyWords=296-1956-5-ND
-
-0
-20
-20
-digikey-footprints
-DIP-28_W7.62mm
-http://www.digikey.com/products/en?formaction=on&lang=en&site=us&KeyWords=296-1956-5-ND
-
-0
-28
-28
-digikey-footprints
-DIP-40_W15.24mm
-http://www.ti.com/lit/ds/symlink/tpic6b595.pdf
-
-0
-40
-40
-digikey-footprints
-DO-35
-
-
-0
-2
-2
-digikey-footprints
-DO-35_NK
-
-
-0
-2
-2
-digikey-footprints
-DO-41
-
-
-0
-2
-2
-digikey-footprints
-DO-214AB
-
-
-0
-2
-2
-digikey-footprints
-DO-214AC
-
-
-0
-2
-2
-digikey-footprints
-DSBGA-8_1.6x1.6mm
-http://www.ti.com/lit/ds/symlink/tmp006.pdf
-
-0
-9
-8
-digikey-footprints
-DSUB-9_Jack_5747840-3
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5747840&DocType=Customer+Drawing&DocLang=English
-
-0
-11
-10
-digikey-footprints
-DSUB-9_Receptical_A-DF_09_A_KG-T2S
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_4888_CO.pdf
-
-0
-11
-10
-digikey-footprints
-DVI_Female_74320-9004
-
-
-0
-26
-25
-digikey-footprints
-DVI_Female_74320-9010
-
-
-0
-32
-30
-digikey-footprints
-Diode_DO-35_P10mm
-
-
-0
-2
-2
-digikey-footprints
-DisplayPort_2040210-1
-
-
-0
-25
-21
-digikey-footprints
-DisplayPort_Mini_2129320-3
-
-
-0
-24
-21
-digikey-footprints
-ESP32-WROOM-32D
-
-
-0
-39
-39
-digikey-footprints
-Ethernet_Jack_54602-908LF
-http://portal.fciconnect.com/Comergent//fci/drawing/c-bmj-0102.pdf
-
-0
-8
-8
-digikey-footprints
-Ethernet_Jack_ARJC02-111008B
-http://www.abracon.com/Magnetics/lan/Ethernet_Jack_ARJC02-111008B.PDF
-
-0
-12
-12
-digikey-footprints
-Ethernet_Jack_RJLSE4208101T
-https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJLSE4X0XX01X.pdf
-
-0
-10
-9
-digikey-footprints
-FLIR_Lepton_Socket_1050281001
-
-
-0
-68
-33
-digikey-footprints
-GPS_Module_CAM-M8C-0
-
-
-0
-31
-31
-digikey-footprints
-GSM_Module_17.8x16.5mm_A2235-H
-
-
-0
-30
-23
-digikey-footprints
-Gas_Sensor_110-109
-
-
-0
-10
-10
-digikey-footprints
-Gas_Sensor_110-202
-http://www.spec-sensors.com/wp-content/uploads/2016/02/3SP_Ethanol_1000-P-Package-Gas_Sensor_110-202.pdf
-
-0
-6
-6
-digikey-footprints
-HDMI_A_Female_2000-1-2-41-00-BK
-http://media.digikey.com/pdf/Data%20Sheets/CNC%20Tech%20PDFs/HDMI_A_Female_2000-1-2-41-00-BK_Dwg.pdf
-
-0
-25
-20
-digikey-footprints
-HDMI_Female_DC3RX19JA3R1700
-
-
-0
-23
-20
-digikey-footprints
-HDMI_Mini_Female_2001-1-2-21-00-BK
-
-
-0
-23
-20
-digikey-footprints
-HTQFP-100_14x14mm
-
-
-0
-182
-101
-digikey-footprints
-Hall_Sensor_SIP-3_A132_LUA-T
-file:///C:/Users/chad_rosencrans/Downloads/A1324-5-6-Datasheet%20(1).pdf
-
-0
-3
-3
-digikey-footprints
-HeaderPin_2x2_P4.2_Drill1.4mm
-http://www.molex.com/pdm_docs/sd/039281043_sd.pdf
-
-0
-4
-4
-digikey-footprints
-Headphone_Jack_2.5mm_SJ1-2503A
-http://www.cui.com/product/resource/sj1-2503a.pdf
-
-0
-4
-4
-digikey-footprints
-Headphone_Jack_3.5mm_SJ1-3523N
-http://www.cui.com/product/resource/sj1-352xn-series.pdf
-
-0
-3
-3
-digikey-footprints
-Headphone_Jack_6.35mm_RA49B14B
-
-
-0
-5
-5
-digikey-footprints
-Headphone_Jack_6.35mm_SN49B12B
-
-
-0
-3
-3
-digikey-footprints
-Humidity_HIH-4030
-
-
-0
-4
-4
-digikey-footprints
-Humidity_HIH61xx
-
-
-0
-8
-8
-digikey-footprints
-Humidity_SHT15
-https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/2_Humidity_Sensors/Sensirion_Humidity_Sensors_SHT1x_Datasheet_V5.pdf
-
-0
-8
-8
-digikey-footprints
-ICL_THT_P7.8mm
-https://www.ametherm.com/datasheetspdf/SL322R025.pdf
-
-0
-2
-2
-digikey-footprints
-ICL_THT_P17.1mm
-https://www.ametherm.com/datasheets/as322r025
-
-0
-2
-2
-digikey-footprints
-IMU_Module_SEN0140
-
-
-0
-4
-4
-digikey-footprints
-IR_Receiver_TSOP38238
-
-
-0
-3
-3
-digikey-footprints
-Inductor_13R106C
-http://www.murata-ps.com/data/magnetics/kmp_1300r.pdf
-
-0
-2
-2
-digikey-footprints
-Jumper_Micro-Miniature_P5.31mm
-
-
-0
-2
-2
-digikey-footprints
-Jumper_Micro-Miniature_P5.375mm
-file:///C:/Users/chad_rosencrans/Downloads/5102.pdf
-
-0
-2
-2
-digikey-footprints
-Jumper_Tin_P5.32mm
-
-
-0
-2
-2
-digikey-footprints
-Jumper_Tin_P5.38mm
-https://cdn.harwin.com/pdfs/S1911R.pdf
-
-0
-2
-2
-digikey-footprints
-Jumper_Tin_P10.9mm
-
-
-0
-2
-2
-digikey-footprints
-LED_2-SMD_Gull_Wing_4.4x3.85mm
-
-
-0
-2
-2
-digikey-footprints
-LED_2-SMD_No_Lead_1.7x0.8mm
-
-
-0
-2
-2
-digikey-footprints
-LED_3mm_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-LED_5mm_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-LED_7Seg_VAOS-C402S9-BW_50
-
-
-0
-10
-10
-digikey-footprints
-LED_0603
-
-
-0
-2
-2
-digikey-footprints
-LED_Bar_Graph_LTA-1000
-
-
-0
-20
-20
-digikey-footprints
-LED_Breakout_Parallax_WS2812B
-https://www.parallax.com/product/28086
-
-0
-6
-6
-digikey-footprints
-LED_Dual0603
-http://optoelectronics.liteon.com/upload/download/DS22-2008-0044/LTST-C19HE1WT.pdf
-
-0
-4
-4
-digikey-footprints
-LED_IR_TSAL6100
-
-
-0
-2
-2
-digikey-footprints
-LED_RGB_WP154A4SUREQBFZGC
-http://www.kingbrightusa.com/images/catalog/SPEC/WP154A4SUREQBFZGC.pdf
-
-0
-4
-4
-digikey-footprints
-LFQFN-16-1EP_3x3mm
-
-
-0
-17
-17
-digikey-footprints
-LFQFN-16-1EP_4x4mm
-
-
-0
-17
-17
-digikey-footprints
-LGA-8_2x2.5mm_BMP280
-
-
-0
-8
-8
-digikey-footprints
-LGA-12_4.8x2.8_VL6180
-http://www.st.com/content/ccc/resource/technical/document/datasheet/c4/11/28/86/e6/26/44/b3/DM00112632.pdf/files/DM00112632.pdf/jcr:content/translations/en.DM00112632.pdf
-
-0
-12
-12
-digikey-footprints
-LGA-12_9x9mm_LSM303C
-http://www.st.com/content/ccc/resource/technical/document/datasheet/59/aa/fb/3b/85/9e/4e/0a/DM00089896.pdf/files/DM00089896.pdf/jcr:content/translations/en.DM00089896.pdf
-
-0
-12
-12
-digikey-footprints
-LGA-14L_2.5x3mm__LSM6DS3
-http://www.st.com/content/ccc/resource/technical/document/datasheet/a3/f5/4f/ae/8e/44/41/d7/DM00133076.pdf/files/DM00133076.pdf/jcr:content/translations/en.DM00133076.pdf
-
-0
-14
-14
-digikey-footprints
-LGA-14_2x2mm
-http://www.st.com/content/ccc/resource/technical/document/datasheet/c1/e1/62/31/d2/b1/4d/bb/DM00042751.pdf/files/DM00042751.pdf/jcr:content/translations/en.DM00042751.pdf
-
-0
-14
-14
-digikey-footprints
-LGA-14_3x5mm_RevA
-http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL343.pdf
-
-0
-14
-14
-digikey-footprints
-LGA-24_3x3.5mm_LSM9DS1
-http://www.st.com/content/ccc/resource/technical/document/datasheet/1e/3f/2a/d6/25/eb/48/46/DM00103319.pdf/files/DM00103319.pdf/jcr:content/translations/en.DM00103319.pdf
-
-0
-24
-24
-digikey-footprints
-LGA-28_5.2x3.8mm_BNO0055
-
-
-0
-28
-28
-digikey-footprints
-LLC-36_9x9mm_HMC6343
-
-
-0
-36
-36
-digikey-footprints
-LLGA-10_2.5x2.5mm_LPS25HB
-http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/4c/aa/72/1f/45/4e/24/DM00141379.pdf/files/DM00141379.pdf/jcr:content/translations/en.DM00141379.pdf
-
-0
-10
-10
-digikey-footprints
-LORA_Module_RM103
-http://ww1.microchip.com/downloads/en/DeviceDoc/50002346C.pdf
-
-0
-47
-47
-digikey-footprints
-LQFP-32_7x7mm
-
-
-0
-32
-32
-digikey-footprints
-LQFP-48_7x7mm
-http://wizwiki.net/wiki/lib/exe/fetch.php?media=products:w5500:w5500_ds_v106e_141230.pdf
-
-0
-48
-48
-digikey-footprints
-LQFP-64_10x10mm
-
-
-0
-64
-64
-digikey-footprints
-LQFP-100_14x14mm
-
-
-0
-100
-100
-digikey-footprints
-LSOJ-6_W3.76mm
-http://pdfserv.maximintegrated.com/package_dwgs/21-0382.PDF
-
-0
-6
-6
-digikey-footprints
-LSSOP-24_W5.6mm
-file:///C:/Users/alex_wegscheid/Downloads/TB6612FNG_datasheet_en_20141001%20(7).pdf
-
-0
-24
-24
-digikey-footprints
-Light_to_Freq_TSL235R-LF
-file:///C:/Users/alex_wegscheid/Downloads/TSL235R_DS000120_2-00%20(6).pdf
-
-0
-3
-3
-digikey-footprints
-MSOP-8-1EP_W3mm
-http://www.ti.com/lit/ds/symlink/tpa2005d1-q1.pdf
-
-0
-14
-9
-digikey-footprints
-MSOP-8_W2.80mm
-
-
-0
-8
-8
-digikey-footprints
-MSOP-10-1EP_W3mm
-
-
-0
-11
-11
-digikey-footprints
-MSOP-10_W3mm
-
-
-0
-10
-10
-digikey-footprints
-MSOP-12-1EP_W3mm
-
-
-0
-13
-13
-digikey-footprints
-Mag_Jack_Module_WIZ820IO
-http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ820io/Document/WIZ820io_User_Manual_V1.0.pdf
-
-0
-12
-12
-digikey-footprints
-Mic_CMA-4544PF-W
-
-
-0
-2
-2
-digikey-footprints
-MicroSD_2908-05WB-MG
-
-
-0
-12
-9
-digikey-footprints
-Molex_734120114_UMC_RF_CONN_Vertical
-
-
-0
-4
-2
-digikey-footprints
-Multiwatt-11
-http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf
-
-0
-11
-11
-digikey-footprints
-Multiwatt-15
-http://www.st.com/content/ccc/resource/technical/document/datasheet/ab/d6/fa/99/84/36/49/ee/CD00000017.pdf/files/CD00000017.pdf/jcr:content/translations/en.CD00000017.pdf
-
-0
-15
-15
-digikey-footprints
-OLED_128x32_Folded
-
-
-0
-15
-15
-digikey-footprints
-OPLGA-6_VEML6070
-http://www.vishay.com/docs/84277/veml6070.pdf
-
-0
-6
-6
-digikey-footprints
-Oscillator_FXO-LC73
-http://www.foxonline.com/pdfs/FXO_LC73.pdf
-
-0
-6
-6
-digikey-footprints
-Oscillator_MEMS_SIT1533AI-H4-DCC-32.768E
-https://www.sitime.com/products/datasheets/sit1533/SiT1533-datasheet.pdf
-
-0
-4
-4
-digikey-footprints
-Oscillator_XLH536025.000000I
-
-
-0
-4
-4
-digikey-footprints
-Oscillator_XLH736022.579200I
-
-
-0
-4
-4
-digikey-footprints
-PC_TEST-POINT_MINI_3.43x1.78mm
-
-
-0
-1
-1
-digikey-footprints
-PC_TEST_POINT_SMD
-
-
-0
-1
-1
-digikey-footprints
-PC_Test_Point_Mini_3.8x2.03mm
-file:///C:/Users/chad_rosencrans/Downloads/5029.PDF
-
-0
-1
-1
-digikey-footprints
-PROBE_PAD_0603
-
-
-0
-1
-1
-digikey-footprints
-PROBE_PAD_0805
-
-
-0
-1
-1
-digikey-footprints
-PROBE_PAD_1206
-
-
-0
-1
-1
-digikey-footprints
-Particle_Photon
-
-
-0
-24
-24
-digikey-footprints
-Phone_Jack_87180-062LF
-
-
-0
-2
-2
-digikey-footprints
-Photodiode_3mm_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-Photodiode_5mm_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-Photodiode_1206
-http://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C230KFKT_5-24-06.pdf
-
-0
-2
-2
-digikey-footprints
-Photodiode_Radial_5.1x3mm_P2.54mm
-http://www.osram-os.com/Graphics/XPic1/00211421_0.pdf
-
-0
-2
-2
-digikey-footprints
-Photodiode_THT_BPW34
-
-
-0
-2
-2
-digikey-footprints
-Phototransistor_4.4x1.5mm_P2.54_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-Phototransistor_SMD_4x2mm_TEMT6000X01
-
-
-0
-3
-3
-digikey-footprints
-Piezo_9x9mm_PKMCS0909E4000-R1
-
-
-0
-2
-2
-digikey-footprints
-Piezo_Transducer_THT_PS1240P02BT
-
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P2.5mm_Drill1.1mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P2.54mm
-
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P2.54mm_Drill1.02mm
-http://www.molex.com/pdm_docs/sd/022232031_sd.pdf
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P2mm
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-
-0
-4
-2
-digikey-footprints
-PinHeader_1x2_P2mm_Drill1mm
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P2mm_Drill1mm_RA
-
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x2_P3.96mm_Drill1.6mm
-http://www.jst-mfg.com/product/pdf/eng/eVH.pdf
-
-0
-2
-2
-digikey-footprints
-PinHeader_1x3_P2.5mm_Drill1.1mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-3
-3
-digikey-footprints
-PinHeader_1x3_P2.54_Drill1.1mm
-
-
-0
-3
-3
-digikey-footprints
-PinHeader_1x3_P2.54mm_Drill1.02mm
-http://www.molex.com/pdm_docs/sd/022232031_sd.pdf
-
-0
-3
-3
-digikey-footprints
-PinHeader_1x3_P2mm_Drill1mm
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-
-0
-3
-3
-digikey-footprints
-PinHeader_1x4_P2.5mm_Drill1.1mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-4
-4
-digikey-footprints
-PinHeader_1x4_P2.54mm_Drill1.02mm
-http://www.molex.com/pdm_docs/sd/022232031_sd.pdf
-
-0
-4
-4
-digikey-footprints
-PinHeader_1x4_P2mm_Drill1mm
-http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
-
-0
-4
-4
-digikey-footprints
-PinHeader_1x5_P2.5mm_Drill1.1mm
-http://www.jst-mfg.com/product/pdf/eng/eXH.pdf
-
-0
-5
-5
-digikey-footprints
-PinHeader_1x40_P2.54_Drill1mm
-https://media.digikey.com/PDF/Data%20Sheets/Sullins%20PDFs/xRxCzzzSxxN-RC_ST_11635-B.pdf
-
-0
-40
-40
-digikey-footprints
-PinHeader_2x1mm_P2mm_SMD_RA
-
-
-0
-4
-2
-digikey-footprints
-PinHeader_2x5_P1.27_SMD
-http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-footprint.pdf
-
-0
-10
-10
-digikey-footprints
-PinHeader_2x5_P1.27mm
-https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/20021121.pdf
-
-0
-10
-10
-digikey-footprints
-PinHeader_2x5_P1.27mm_Drill.7mm
-http://cnctech.us/pdfs/3220-XX-0100-00.pdf
-
-0
-10
-10
-digikey-footprints
-PinHeader_2x5_P2.54mm_Drill1.2mm
-http://www.on-shore.com/wp-content/uploads/2015/09/302-sxxx.pdf
-
-0
-10
-10
-digikey-footprints
-PinHeader_2x6_P2.54mm_Vertical_SMD
-http://www.molex.com/pdm_docs/sd/015912120_sd.pdf
-
-0
-12
-12
-digikey-footprints
-PinHeader_2x7_P2mm_Drill1mm
-
-
-0
-14
-14
-digikey-footprints
-PinHeader_2x7_P2mm_SMD
-http://www.molex.com/pdm_docs/sd/878322620_sd.pdf
-
-0
-14
-14
-digikey-footprints
-PinHeader_6x2_P2.54mm_Horizontal
-http://portal.fciconnect.com/Comergent//fci/drawing/68020.pdf
-
-0
-12
-12
-digikey-footprints
-PinHeader_6x2_P2.54mm_Vertical
-http://portal.fciconnect.com/Comergent//fci/drawing/68020.pdf
-
-0
-12
-12
-digikey-footprints
-Potentiometer_P120PK-Y25BR10K
-
-
-0
-5
-4
-digikey-footprints
-PowerSOIC-8_W3.9mm
-
-
-0
-16
-9
-digikey-footprints
-Pressure_Sensor_LGA-8_2.5x2.5mm_BME280
-
-
-0
-8
-8
-digikey-footprints
-PushButton_12x12mm_THT_GPTS203211B
-
-
-0
-2
-2
-digikey-footprints
-PushButton_Round_D12mm_THT_KS-01Q-01
-http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
-
-0
-4
-4
-digikey-footprints
-QFN-10-1EP_3x3mm
-
-
-0
-11
-11
-digikey-footprints
-QFN-20-1EP_3x3mm
-
-
-0
-37
-21
-digikey-footprints
-QFN-20-1EP_4x4mm
-
-
-0
-37
-21
-digikey-footprints
-QFN-20-1EP_4x4mm_RevA
-
-
-0
-21
-21
-digikey-footprints
-QFN-24-1EP_3x3mm
-
-
-0
-25
-25
-digikey-footprints
-QFN-24-1EP_4x4mm
-
-
-0
-24
-24
-digikey-footprints
-QFN-32-1EP_5x5mm
-
-
-0
-42
-33
-digikey-footprints
-QFN-48-1EP_6x6mm
-https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf
-
-0
-49
-49
-digikey-footprints
-QFN-48-1EP_7x7mm
-
-
-0
-74
-49
-digikey-footprints
-RF_ISM_Module_MRF89XAM9A
-
-
-0
-12
-12
-digikey-footprints
-RF_Location_Tracking_DWM1000
-https://www.decawave.com/sites/default/files/resources/DWM1000-Datasheet-V1.6.pdf
-
-0
-24
-24
-digikey-footprints
-RF_Module_COM-13909
-https://cdn.sparkfun.com/datasheets/Wireless/General/RFM69HCW-V1.1.pdf
-
-0
-16
-16
-digikey-footprints
-RF_Module_RXM-418-LR
-https://www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf
-
-0
-16
-16
-digikey-footprints
-RF_Module_RXM-433-LR
-https://www.linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf
-
-0
-16
-16
-digikey-footprints
-RF_Module_SPBT2632C2A.AT2
-http://www.st.com/content/ccc/resource/technical/document/datasheet/2c/4e/6f/76/81/4f/4b/d4/DM00048919.pdf/files/DM00048919.pdf/jcr:content/translations/en.DM00048919.pdf
-
-0
-22
-17
-digikey-footprints
-RF_Module_SPWF01SA.11
-
-
-0
-30
-30
-digikey-footprints
-RF_Module_TXM-433-LR
-
-
-0
-8
-8
-digikey-footprints
-RF_SMA_BoardEdge_142-0701-801
-https://belfuse.com/resources/Johnson/productinformation/pi-142-0701-801.pdf
-
-0
-5
-2
-digikey-footprints
-RF_SMA_Receptical_Vertical_CONSMA001-SMD-G
-
-
-0
-5
-2
-digikey-footprints
-RF_SMA_RightAngle_5-1814400-1
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1814400&DocType=Customer+Drawing&DocLang=English
-
-0
-5
-2
-digikey-footprints
-RF_SMA_Vertical_5-1814832-1
-
-
-0
-5
-2
-digikey-footprints
-RJ45_Female_RB1-125BAG1A
-https://www.shopwiznet.com/index.php/lanotattachments/download/file/id/95/store/1/
-
-0
-14
-13
-digikey-footprints
-Reflective_Sensor_QRD1114
-https://www.fairchildsemi.com/datasheets/QR/QRD1113.pdf
-
-0
-4
-4
-digikey-footprints
-Reflective_Sensor_QRE1113
-
-
-0
-4
-4
-digikey-footprints
-Relay_JSM1-12V-5
-
-
-0
-5
-5
-digikey-footprints
-Relay_Reed_9007-05-00
-https://media.digikey.com/pdf/Data%20Sheets/Coto%20Technology%20PDFS/9000_Spartan_Series.pdf
-
-0
-4
-4
-digikey-footprints
-Relay_THT_EC2
-
-
-0
-8
-8
-digikey-footprints
-Relay_THT_G5LE-14
-
-
-0
-5
-5
-digikey-footprints
-Relay_THT_G5V-1
-
-
-0
-6
-6
-digikey-footprints
-Relay_THT_G5V-2
-
-
-0
-8
-8
-digikey-footprints
-Rotary_Encoder_Switched_PEC11R
-
-
-0
-7
-6
-digikey-footprints
-SC-70-5
-
-
-0
-5
-5
-digikey-footprints
-SC-74
-https://assets.nexperia.com/documents/data-sheet/IP4220CZ6.pdf
-
-0
-6
-6
-digikey-footprints
-SD_Holder_787231001
-
-
-0
-14
-9
-digikey-footprints
-SIM_473080001
-
-
-0
-10
-7
-digikey-footprints
-SIM_Nano_5045200691
-
-
-0
-16
-7
-digikey-footprints
-SIP-3_P2.54mm
-
-
-0
-3
-3
-digikey-footprints
-SIP-3_P2.54mm_OKI-78SR-5_1.5-W36-C
-https://power.murata.com/data/power/oki-78sr.pdf
-
-0
-3
-3
-digikey-footprints
-SIP-4_W3.81mm
-https://www.diodes.com/assets/Datasheets/ds21203.pdf
-
-0
-4
-4
-digikey-footprints
-SIP-9_P2.54mm
-http://www.bourns.com/docs/Product-Datasheets/4600x.pdf
-
-0
-9
-9
-digikey-footprints
-SMD-2_3.2x1.5mm
-http://www.ecsxtal.com/store/pdf/ecx-31b.pdf
-
-0
-2
-2
-digikey-footprints
-SMD-2_3.2x2.5mm
-http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf
-
-0
-2
-2
-digikey-footprints
-SMD-4_3.3x2.8_PD15-22C_TR8
-
-
-0
-4
-2
-digikey-footprints
-SMD-4_3.4x2.7mm_P1.8mm
-https://www.fairchildsemi.com/datasheets/QR/QRE1113.pdf
-
-0
-4
-4
-digikey-footprints
-SMD-4_4.4x3.85mm_P2.54mm
-http://optoelectronics.liteon.com/upload/download/DS70-2001-010/LTV-356T%20series%20201610.pdf
-
-0
-4
-4
-digikey-footprints
-SMD-4_4.6x7.62mm_P2.54mm
-https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTV-816_826_846.pdf
-
-0
-4
-4
-digikey-footprints
-SMD-4_5x4.4mm_P4mm
-https://www.fairchildsemi.com/datasheets/MD/MDB10S.pdf
-
-0
-4
-4
-digikey-footprints
-SMD-5-6_3.83x2.79mm
-
-
-0
-5
-5
-digikey-footprints
-SMD-5-6_R_3.83x2.79mm
-
-
-0
-5
-5
-digikey-footprints
-SMD-8_5x3mm
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English
-
-0
-8
-8
-digikey-footprints
-SMD-8_7x5mm
-
-
-0
-8
-8
-digikey-footprints
-SMD-14_Grideye
-https://industrial.panasonic.com/content/data/CP/PDF/built-in_sensor_catalog_e.pdf
-
-0
-14
-14
-digikey-footprints
-SOCKET_DIP-6_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-6
-6
-digikey-footprints
-SOCKET_DIP-8_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-8
-8
-digikey-footprints
-SOD-80
-
-
-0
-6
-2
-digikey-footprints
-SOD-123
-
-
-0
-2
-2
-digikey-footprints
-SOD-323
-
-
-0
-2
-2
-digikey-footprints
-SOD-323F
-
-
-0
-2
-2
-digikey-footprints
-SOD-523
-
-
-0
-2
-2
-digikey-footprints
-SOIC-6-5_W4.55mm
-
-
-0
-5
-5
-digikey-footprints
-SOIC-7-8_W3.9mm
-
-
-0
-7
-7
-digikey-footprints
-SOIC-8-1EP_W3.9mm
-
-
-0
-9
-9
-digikey-footprints
-SOIC-8_W3.9mm
-
-
-0
-8
-8
-digikey-footprints
-SOIC-8_W5.3mm
-http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet-Summary.pdf
-
-0
-8
-8
-digikey-footprints
-SOIC-8_W5.6mm
-
-
-0
-8
-8
-digikey-footprints
-SOIC-14_W3.9mm
-
-
-0
-14
-14
-digikey-footprints
-SOIC-16_W3.90mm
-
-
-0
-16
-16
-digikey-footprints
-SOIC-16_W7.5mm
-https://www.infineon.com/dgdl/ir2110.pdf?fileId=5546d462533600a4015355c80333167e
-
-0
-16
-16
-digikey-footprints
-SOIC-18_W7.5mm
-http://www.ti.com/lit/ds/symlink/uln2803a.pdf
-
-0
-18
-18
-digikey-footprints
-SOIC-20_W7.5mm
-
-
-0
-20
-20
-digikey-footprints
-SOIC-24_W7.50mm
-
-
-0
-24
-24
-digikey-footprints
-SOIC-28_W7.5mm
-
-
-0
-28
-28
-digikey-footprints
-SOP-4_W3.81mm
-
-
-0
-4
-4
-digikey-footprints
-SOT-3
-http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
-
-0
-3
-3
-digikey-footprints
-SOT-23-3
-
-
-0
-3
-3
-digikey-footprints
-SOT-23-6
-
-
-0
-6
-6
-digikey-footprints
-SOT-23-8
-http://www.ti.com/lit/ds/symlink/ina219.pdf
-
-0
-8
-8
-digikey-footprints
-SOT-23W
-file:///C:/Users/alex_wegscheid/Downloads/A1324-5-6-Datasheet%20(2).pdf
-
-0
-3
-3
-digikey-footprints
-SOT-143-4
-http://datasheets.maximintegrated.com/en/ds/MAX6816-MAX6818.pdf
-
-0
-4
-4
-digikey-footprints
-SOT-223
-
-
-0
-4
-4
-digikey-footprints
-SOT-223-4
-
-
-0
-4
-4
-digikey-footprints
-SOT-323
-https://assets.nexperia.com/documents/data-sheet/PESD1CAN-U.pdf
-
-0
-3
-3
-digikey-footprints
-SOT-353
-
-
-0
-5
-5
-digikey-footprints
-SOT-363
-
-
-0
-6
-6
-digikey-footprints
-SOT-523
-
-
-0
-3
-3
-digikey-footprints
-SOT-553
-
-
-0
-5
-5
-digikey-footprints
-SOT-563
-
-
-0
-6
-6
-digikey-footprints
-SOT-753
-
-
-0
-5
-5
-digikey-footprints
-SOT23-6L
-http://www.st.com/content/ccc/resource/technical/document/datasheet/9a/e6/1c/4f/b6/9a/44/e6/CD00047494.pdf/files/CD00047494.pdf/jcr:content/translations/en.CD00047494.pdf
-
-0
-6
-6
-digikey-footprints
-SPH0645LM4H-B
-http://www.digikey.com/products/en?keywords=423-1405-1-ND
-
-0
-9
-6
-digikey-footprints
-SSOP-16_W3.90mm
-
-
-0
-16
-16
-digikey-footprints
-SSOP-20_W3.9mm
-http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf
-
-0
-20
-20
-digikey-footprints
-SSOP-20_W5.3mm
-http://ww1.microchip.com/downloads/en/DeviceDoc/41606B.pdf
-
-0
-20
-20
-digikey-footprints
-SSOP-24_W5.30mm
-
-
-0
-24
-24
-digikey-footprints
-SSOP-28_W5.30mm
-
-
-0
-28
-28
-digikey-footprints
-SiTIME_SMD-6-1EP
-https://www.sitime.com/products/datasheets/sit9102/SiT9102-datasheet.pdf
-
-0
-7
-7
-digikey-footprints
-Smoke_Sensor_MAX30105EFD+
-http://datasheets.maximintegrated.com/en/ds/MAX30105.pdf
-
-0
-14
-14
-digikey-footprints
-Socket_DIP-14_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-14
-14
-digikey-footprints
-Socket_DIP-16_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-16
-16
-digikey-footprints
-Socket_DIP-18_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-18
-18
-digikey-footprints
-Socket_DIP-20_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-20
-20
-digikey-footprints
-Socket_DIP-24_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-24
-24
-digikey-footprints
-Socket_DIP-24_15.24mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-24
-24
-digikey-footprints
-Socket_DIP-28_7.62mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-28
-28
-digikey-footprints
-Socket_DIP-28_15.24mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-28
-28
-digikey-footprints
-Socket_DIP-32_15.24mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-32
-32
-digikey-footprints
-Socket_DIP-40_15.24mm_Conn
-http://www.assmann-wsw.com/fileadmin/datasheets/ASS_0810_CO.pdf
-
-0
-40
-40
-digikey-footprints
-Switch_Nav_12.4x12.4mm_SMD_JS5208
-
-
-0
-6
-6
-digikey-footprints
-Switch_Slide_11.6x4mm_EG1218
-http://spec_sheets.e-switch.com/specs/P040040.pdf
-
-0
-3
-3
-digikey-footprints
-Switch_Slide_11.6x4mm_SJ-3523-SMT
-
-
-0
-3
-3
-digikey-footprints
-Switch_Slide_JS202011SCQN
-
-
-0
-6
-6
-digikey-footprints
-Switch_Tactile_SMD_4.5x4.5mm_TL3315NF160Q
-http://spec_sheets.e-switch.com/specs/P010337.pdf
-
-0
-8
-4
-digikey-footprints
-Switch_Tactile_SMD_6x6mm
-
-
-0
-4
-4
-digikey-footprints
-Switch_Tactile_SMD_6x6mm_PTS645
-http://www.ckswitches.com/media/1471/pts645.pdf
-
-0
-4
-4
-digikey-footprints
-Switch_Tactile_SMD_B3U-1000P
-
-
-0
-2
-2
-digikey-footprints
-Switch_Tactile_THT_6x6mm
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English
-
-0
-4
-4
-digikey-footprints
-Switch_Tactile_THT_6x6mm_MJTP1230
-http://media.digikey.com/pdf/Data%20Sheets/APEM%20Components%20PDFs/MJTP%20Series-6MM.pdf
-
-0
-4
-4
-digikey-footprints
-Switch_Tactile_THT_B3F-1xxx
-http://www.omron.com/ecb/products/pdf/en-b3f.pdf
-
-0
-4
-4
-digikey-footprints
-Switch_Toggle_ATE1D-2M3-10-Z
-https://www.nidec-copal-electronics.com/e/catalog/switch/ate.pdf
-
-0
-3
-3
-digikey-footprints
-TCO_5.5mm_Radial
-http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
-
-0
-2
-2
-digikey-footprints
-TDFN-8-1EP
-file:///C:/Users/alex_wegscheid/Downloads/EST02896_MR25H256-MR25H256A_Combined%20Datasheet_Rev1.4%20020117%20(5).pdf
-
-0
-8
-8
-digikey-footprints
-TERM_BLOCK_1x3_P5.08MM
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-3
-3
-digikey-footprints
-TFLGA-16_3x3.25mm
-http://www.analog.com/media/en/technical-documentation/data-sheets/ADXL362.pdf
-
-0
-16
-16
-digikey-footprints
-TFLGA-16_3x3mm
-http://www.st.com/content/ccc/resource/technical/document/datasheet/3e/48/02/c7/a4/e6/41/bb/DM00053090.pdf/files/DM00053090.pdf/jcr:content/translations/en.DM00053090.pdf
-
-0
-16
-16
-digikey-footprints
-TFQFN-24-1EP_4x4mm
-
-
-0
-34
-25
-digikey-footprints
-TFSOP-12-16_W3.00mm
-
-
-0
-12
-12
-digikey-footprints
-TFSOP-16_W3.00mm
-
-
-0
-16
-16
-digikey-footprints
-TLGA-8_3x5
-http://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf
-
-0
-8
-8
-digikey-footprints
-TO-3P-5
-
-
-0
-3
-3
-digikey-footprints
-TO-18-3
-
-
-0
-3
-3
-digikey-footprints
-TO-39-3
-
-
-0
-3
-3
-digikey-footprints
-TO-39-4
-file:///C:/Users/alex_wegscheid/Downloads/MLX90614-Datasheet-Melexis%20(2).pdf
-
-0
-4
-4
-digikey-footprints
-TO-92-3
-http://www.ti.com/lit/ds/symlink/tl431a.pdf
-
-0
-3
-3
-digikey-footprints
-TO-92-3_Formed_Leads
-http://www.ti.com/lit/ds/symlink/tl431a.pdf
-
-0
-3
-3
-digikey-footprints
-TO-204AA
-
-
-0
-4
-3
-digikey-footprints
-TO-220-3
-http://www.st.com/content/ccc/resource/technical/document/datasheet/f9/ed/f5/44/26/b9/43/a4/CD00000911.pdf/files/CD00000911.pdf/jcr:content/translations/en.CD00000911.pdf
-
-0
-3
-3
-digikey-footprints
-TO-220-5
-http://www.ti.com/lit/ds/symlink/lm1875.pdf
-
-0
-5
-5
-digikey-footprints
-TO-220-11
-http://www.ti.com/lit/ds/symlink/lm3886.pdf
-
-0
-11
-11
-digikey-footprints
-TO-225AA
-https://www.fairchildsemi.com/datasheets/KS/KSA1220A.pdf
-
-0
-3
-3
-digikey-footprints
-TO-243AA
-http://www.digikey.com/products/en?keywords=863-1063-1-ND
-
-0
-4
-4
-digikey-footprints
-TO-247-3
-http://www.st.com/content/ccc/resource/technical/document/datasheet/ec/61/1c/fd/4c/fe/48/b5/CD00000914.pdf/files/CD00000914.pdf/jcr:content/translations/en.CD00000914.pdf
-
-0
-3
-3
-digikey-footprints
-TO-252-3
-http://www.digikey.com/products/en?keywords=MC7805BDTRKGOSCT-ND
-
-0
-3
-3
-digikey-footprints
-TO-253-4
-https://www.digikey.com/products/en?keywords=1727-3884-1
-
-0
-4
-4
-digikey-footprints
-TO-261-4
-http://cds.linear.com/docs/en/datasheet/3092fc.pdf
-
-0
-4
-4
-digikey-footprints
-TO-269AA
-http://www.mccsemi.com/up_pdf/MB05S-MB10S(MBS-1).pdf
-
-0
-4
-4
-digikey-footprints
-TOP-3_Vertical_Insulated
-
-
-0
-3
-3
-digikey-footprints
-TQFN-20-1EP_5x5mm
-
-
-0
-21
-21
-digikey-footprints
-TQFN-44-1EP_7x7mm
-http://datasheets.maximintegrated.com/en/ds/MAX9744.pdf
-
-0
-45
-45
-digikey-footprints
-TQFP-32_7x7mm
-http://www.atmel.com/Images/Atmel-8826-SEEPROM-PCB-Mounting-Guidelines-Surface-Mount-Packages-ApplicationNote.pdf
-
-0
-32
-32
-digikey-footprints
-TQFP-44_10x10mm
-http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
-
-0
-44
-44
-digikey-footprints
-TQFP-48_7x7mm
-http://ww1.microchip.com/downloads/en/DeviceDoc/40001884A.pdf
-
-0
-48
-48
-digikey-footprints
-TQFP-64_7x7mm
-http://www.nuvoton.com/resource-files/DS_NUC100_120%28DN%29_Series_EN_V1.02.pdf
-
-0
-64
-64
-digikey-footprints
-TQFP-100_12x12mm
-http://ww1.microchip.com/downloads/en/DeviceDoc/100L_TQFP_12x12_PT_C04-0100B.pdf
-
-0
-100
-100
-digikey-footprints
-TQFP-100_14x14mm
-http://www.atmel.com/Images/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf
-
-0
-100
-100
-digikey-footprints
-TSSOP-8_W3mm
-http://www.ti.com/lit/ds/symlink/ina333.pdf
-
-0
-8
-8
-digikey-footprints
-TSSOP-8_W4.4mm
-http://www.st.com/content/ccc/resource/technical/document/datasheet/0d/30/c2/1a/92/03/48/cb/CD00287506.pdf/files/CD00287506.pdf/jcr:content/translations/en.CD00287506.pdf
-
-0
-8
-8
-digikey-footprints
-TSSOP-14_W4.4mm
-http://pdfserv.maximintegrated.com/land_patterns/90-0113.PDF
-
-0
-14
-14
-digikey-footprints
-TSSOP-16-1EP_W4.40mm
-
-
-0
-25
-17
-digikey-footprints
-TSSOP-20-1EP_W4.4mm
-
-
-0
-40
-21
-digikey-footprints
-TSSOP-20_W4.4mm
-http://www.ti.com/lit/ds/symlink/txb0108.pdf
-
-0
-20
-20
-digikey-footprints
-TSSOP-24_W4.40mm
-http://www.ti.com/lit/ds/symlink/tca9548a.pdf
-
-0
-24
-24
-digikey-footprints
-TSSOP-28-1EP_W4.40mm
-http://www.ti.com/lit/ds/symlink/tlc5940.pdf
-
-0
-54
-29
-digikey-footprints
-TSSOP-28_W4.40mm
-http://www.ti.com/lit/ds/symlink/tlc5940.pdf
-
-0
-28
-28
-digikey-footprints
-TSSOP-28_W5.60mm
-http://www.cypress.com/file/139881/download
-
-0
-28
-28
-digikey-footprints
-Term_Block_1x2_P5.08MM
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-2
-2
-digikey-footprints
-Term_Block_1x2_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-2
-2
-digikey-footprints
-Term_Block_1x2_P10.16mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-2
-2
-digikey-footprints
-Term_Block_1x3_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-3
-3
-digikey-footprints
-Term_Block_1x4_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-4
-4
-digikey-footprints
-Term_Block_1x4_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-4
-4
-digikey-footprints
-Term_Block_1x5_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-5
-5
-digikey-footprints
-Term_Block_1x5_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-5
-5
-digikey-footprints
-Term_Block_1x6_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-6
-6
-digikey-footprints
-Term_Block_1x6_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-6
-6
-digikey-footprints
-Term_Block_1x7_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-7
-7
-digikey-footprints
-Term_Block_1x7_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-7
-7
-digikey-footprints
-Term_Block_1x8_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-8
-8
-digikey-footprints
-Term_Block_1x8_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-8
-8
-digikey-footprints
-Term_Block_1x10_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-10
-10
-digikey-footprints
-Term_Block_1x12_P5.08mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx2162.pdf
-
-0
-12
-12
-digikey-footprints
-Term_Block_1x12_P5mm
-http://www.on-shore.com/wp-content/uploads/2015/09/osttcxx0162.pdf
-
-0
-12
-12
-digikey-footprints
-Terminal_Block_D1.3mm_P5mm
-https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1935161.pdf
-
-0
-2
-2
-digikey-footprints
-Test-Point-Pin_Drill2.79mm
-
-
-0
-1
-1
-digikey-footprints
-Test_Jack_Horiz
-https://belfuse.com/resources/Johnson/drawings/dr-1051101001.pdf
-
-0
-2
-1
-digikey-footprints
-Test_Point_2.67x1.02mm
-
-
-0
-1
-1
-digikey-footprints
-Test_Point_3.43x1.78mm
-
-
-0
-1
-1
-digikey-footprints
-Test_Point_D1.02mm
-
-
-0
-1
-1
-digikey-footprints
-Thermocouple_Connector_PCC-SMP-K
-
-
-0
-4
-2
-digikey-footprints
-Tilt_Switch_RB-220-07A_R
-http://media.digikey.com/pdf/Data%20Sheets/C&K/RB-220-07A_R.pdf
-
-0
-2
-2
-digikey-footprints
-Toggle_Switch_100SP1T1B4M2QE
-http://spec_sheets.e-switch.com/specs/T111597.pdf
-
-0
-3
-3
-digikey-footprints
-Toggle_Switch_100SP1T2B4M6QE
-
-
-0
-5
-4
-digikey-footprints
-Trans_SOT-223-4
-
-
-0
-4
-3
-digikey-footprints
-Trimpot_3.8mmx3.6mm_TC33X-2-103E
-http://www.bourns.com/docs/Product-Datasheets/TC33.pdf
-
-0
-3
-3
-digikey-footprints
-UDFN-6-1EP_2x2mm
-http://datasheets.maximintegrated.com/en/ds/MAX44009.pdf
-
-0
-7
-7
-digikey-footprints
-UDFN-6-1EP_2x2mm_USON
-
-
-0
-9
-7
-digikey-footprints
-UFBGA_WLCSP-62
-https://www.nordicsemi.com/eng/nordic/download_resource/62726/14/67410332/13358
-
-0
-62
-62
-digikey-footprints
-UFDFN-6_1.45x1mm
-
-
-0
-6
-6
-digikey-footprints
-UFDFN-10_2.5x1mm
-http://www.semtech.com/images/datasheet/rclamp0522p_0524p.pdf
-
-0
-10
-10
-digikey-footprints
-UFQFN-28-1EP_4x4mm
-http://www.semtech.com/images/datasheet/sx150x_89b.pdf
-
-0
-29
-29
-digikey-footprints
-UFQFN-32-1EP_5x5mm
-file:///C:/Users/alex_wegscheid/Downloads/csr1010-data-sheet%20(4).pdf
-
-0
-33
-33
-digikey-footprints
-UMCoax_Pin_1909763-1
-
-
-0
-3
-2
-digikey-footprints
-USB-C_Female_12401X
-https://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/12401610E4%232A_Dwg.pdf
-
-0
-28
-25
-digikey-footprints
-USB-C_Female_CX70M-24P1
-
-
-0
-42
-25
-digikey-footprints
-USB-C_Female_E8124-015-01
-https://www.digikey.com/product-detail/en/pulse-electronics-network/E8124-015-01/553-3195-2-ND/5800435
-
-0
-32
-25
-digikey-footprints
-USB-C_Female_Vert_DX07S024WJ3R400
-
-
-0
-28
-25
-digikey-footprints
-USB-C_Male_EdgeMnt_DX07P024AJ1R1500
-
-
-0
-30
-25
-digikey-footprints
-USB-C_Male_EdgeMnt_DX07P024MJ1R1500
-http://www.jae.com/z-en/pdf_download_exec.cfm?param=MB-0301-2E_DX07_PLUG.pdf
-
-0
-32
-25
-digikey-footprints
-USB-C_Rugged_RA_MUSBRM1C1M0
-https://www.amphenolcanada.com/ProductSearch/Drawings/AC/MUSBRM1C1XX.pdf
-
-0
-32
-26
-digikey-footprints
-USB_A_Female_AU-Y1006-3
-
-
-0
-13
-10
-digikey-footprints
-USB_A_Female_E8199-001-01
-file:///C:/Users/chad_rosencrans/Downloads/USB_A_Female_E8199-001-01.pdf
-
-0
-11
-10
-digikey-footprints
-USB_A_Female_UE27AC54100
-
-
-0
-6
-5
-digikey-footprints
-USB_A_Female_Vertical_RA_73725-0110BLF
-http://portal.fciconnect.com/Comergent//fci/drawing/73725.pdf
-
-0
-8
-5
-digikey-footprints
-USB_Male_A_UP2-AH-1-TH
-http://www.cui.com/product/resource/up2-ah-th.pdf
-
-0
-8
-5
-digikey-footprints
-USB_Micro_AB_Female_0475890001
-http://www.molex.com/pdm_docs/sd/475890001_sd.pdf
-
-0
-17
-6
-digikey-footprints
-USB_Micro_A_3.1_Female_GSB443T33HR
-http://media.digikey.com/pdf/Data%20Sheets/Amphenol%20PDFs/USB_Micro_A_3.1_Female_GSB443T33HR_Dwg.pdf
-
-0
-16
-11
-digikey-footprints
-USB_Micro_B_Female_10103594-0001LF
-https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
-
-0
-13
-6
-digikey-footprints
-USB_Micro_B_Female_10118192
-http://portal.fciconnect.com/Comergent//fci/drawing/10118192.pdf
-
-0
-11
-6
-digikey-footprints
-USB_Micro_B_Female_10118193-0001LF
-http://portal.fciconnect.com/Comergent//fci/drawing/10118193.pdf
-
-0
-11
-6
-digikey-footprints
-USB_Micro_B_Female_10118194-0001LF
-http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf
-
-0
-9
-6
-digikey-footprints
-USB_Micro_B_Female_0473460001
-http://www.molex.com/pdm_docs/sd/473460001_sd.pdf
-
-0
-11
-6
-digikey-footprints
-USB_Micro_B_Female_1050170001
-
-
-0
-17
-6
-digikey-footprints
-USB_Micro_B_Female_Vert_1051330001
-http://www.molex.com/pdm_docs/sd/1051330001_sd.pdf
-
-0
-8
-6
-digikey-footprints
-USB_Micro_B_Male_UJ2-MIBH-4-SMT-TR
-
-
-0
-11
-6
-digikey-footprints
-USB_Mini_B_Female_690-005-299-043
-http://files.edac.net/USB_Mini_B_Female_690-005-299-043.pdf
-
-0
-9
-6
-digikey-footprints
-USB_Mini_B_Female_548190519
-
-
-0
-7
-6
-digikey-footprints
-USB_Mini_B_Female_UJ2-MBH-1-SMT-TR
-
-
-0
-11
-6
-digikey-footprints
-USB_Mini_B_Female_UX60-MB-5ST
-
-
-0
-11
-6
-digikey-footprints
-VFLGA-12_2x2mm
-http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf
-
-0
-12
-12
-digikey-footprints
-VFLGA-16_3x3mm
-http://www.st.com/content/ccc/resource/technical/document/datasheet/3c/ae/50/85/d6/b1/46/fe/CD00274221.pdf/files/CD00274221.pdf/jcr:content/translations/en.CD00274221.pdf
-
-0
-16
-16
-digikey-footprints
-VFQFN-16-1EP_3x3mm
-http://www.psemi.com/pdf/datasheets/pe42423ds.pdf
-
-0
-17
-17
-digikey-footprints
-VFQFN-28-1EP_5x5mm
-
-
-0
-29
-29
-digikey-footprints
-VFQFN-40-1EP_6x6mm
-http://www.ti.com/lit/ds/symlink/cc2650.pdf
-
-0
-41
-41
-digikey-footprints
-VFQFN-64-1EP_9x9mm
-http://www.ti.com/lit/ds/symlink/cc3200.pdf
-
-0
-65
-65
-digikey-footprints
-VL53L0CXV0DH_1
-http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/b2/1e/33/77/c6/92/47/6b/DM00279086/files/DM00279086.pdf/jcr:content/translations/en.DM00279086.pdf
-
-0
-12
-12
-digikey-footprints
-VOC_Sensor_LGA-10-1EP-2.7x4mm_CCS811B
-
-
-0
-11
-11
-digikey-footprints
-VQFN-16_3x3mm
-
-
-0
-16
-16
-digikey-footprints
-VQFN-28-1EP_6x6mm
-http://www.semtech.com/images/datasheet/sx1272.pdf
-
-0
-29
-29
-digikey-footprints
-VSON-10-1EP_3x3mm
-
-
-0
-30
-11
-digikey-footprints
-WFDFN-6_1.5x1.5mm
-
-
-0
-6
-6
-digikey-footprints
-WFDFN-8-1EP_3x3mm
-
-
-0
-9
-9
-digikey-footprints
-WFDFN-14-1EP_3x3mm
-http://pdfserv.maximintegrated.com/land_patterns/90-0063.PDF
-
-0
-15
-15
-digikey-footprints
-WFQFN-10_2x2mm
-
-
-0
-10
-10
-digikey-footprints
-WFQFN-38-1EP_5x7mm
-http://cds.linear.com/docs/en/datasheet/4020fd.pdf
-
-0
-39
-39
-digikey-footprints
-WIFI_Module_ATWINC1500-MR210PB
-http://ww1.microchip.com/downloads/en/DeviceDoc/70005304A.pdf
-
-0
-29
-29
-digikey-footprints
-WIFI_Module_ESP8266_2491
-http://media.digikey.com/pdf/Data%20Sheets/Adafruit%20PDFs/ESP-12S_UM%20_Rev1.0_8-1-16.pdf
-
-0
-16
-16
-digikey-footprints
-WIFI_Module_WF111-E-V1
-http://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WF111.pdf
-
-0
-33
-33
-digikey-footprints
-WIFI_Module_WF121-A-V2
-
-
-0
-55
-55
-digikey-footprints
-WQFN-16-1EP_4x4mm
-http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf
-
-0
-17
-17
-digikey-footprints
-WQFN-20-1EP_4x4mm
-http://www.ti.com/lit/ds/symlink/tpa2016d2.pdf
-
-0
-50
-21
-digikey-footprints
-WQFN-24-1EP_4x4mm
-
-
-0
-25
-25
-digikey-footprints
-WSON-8_2x2mm
-http://www.ti.com/lit/ds/symlink/drv8837.pdf
-
-0
-11
-9
-digikey-footprints
-WiFi_Module_MRF24WG0MA
-
-
-0
-36
-36
-digikey-footprints
-Wifi_Module_ESP8266_WRL-13678
-
-
-0
-8
-8
-digikey-footprints
-Wifi_Module_RN171
-
-
-0
-52
-50
-digikey-footprints
-WizNet_Module_WIZ810MJ
-http://wiznethome.cafe24.com/wp-content/uploads/wiznethome/Network%20Module/WIZ8XXMJ/Document/WIZ810MJ_DS_V130E.pdf
-
-0
-56
-56
-digikey-footprints
-XBEE-20_THT
-https://www.digi.com/pdf/ds_xbeemultipointmodules.pdf
-
-0
-20
-20
-digikey-footprints
-XBEE_PRO-20_THT
-
-
-0
-20
-20
-digikey-footprints
-XBEE_and_XBEE-PRO_37_SMD
-
-
-0
-74
-37
-digikey-footprints
-XDFN-2_1x0.60mm
-
-
-0
-2
-2
-digikey-footprints
-Zigbee_Module_MRF24J40MA
-http://ww1.microchip.com/downloads/en/DeviceDoc/70329b.pdf
-
-0
-12
-12
-digikey-footprints
-Zigbee_Module_MRF24J40MD
-
-
-0
-12
-12
-freetronics_footprints
-1X01
-
-
-0
-1
-1
-freetronics_footprints
-1X02
-
-
-0
-2
-2
-freetronics_footprints
-1X03
-
-
-0
-3
-3
-freetronics_footprints
-1X04
-
-
-0
-4
-4
-freetronics_footprints
-1X04-SMD
-
-
-0
-4
-4
-freetronics_footprints
-1X05
-
-
-0
-5
-5
-freetronics_footprints
-1X06
-
-
-0
-6
-6
-freetronics_footprints
-1X07
-
-
-0
-7
-7
-freetronics_footprints
-1X08
-
-
-0
-8
-8
-freetronics_footprints
-1X10
-
-
-0
-10
-10
-freetronics_footprints
-1X12
-
-
-0
-12
-12
-freetronics_footprints
-1X14
-
-
-0
-14
-14
-freetronics_footprints
-1X16
-
-
-0
-16
-16
-freetronics_footprints
-1X17
-17 pin SIP 100 thou
-
-0
-17
-17
-freetronics_footprints
-1X20
-
-
-0
-20
-20
-freetronics_footprints
-1X22
-
-
-0
-22
-22
-freetronics_footprints
-1X26
-
-
-0
-26
-26
-freetronics_footprints
-1pin_prototyping
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-1
-1
-freetronics_footprints
-1pin_prototyping_mini
-module 1 pin (ou trou mecanique de percage)
-DEV
-0
-1
-1
-freetronics_footprints
-2X03
-<b>PIN HEADER</b>
-
-0
-6
-6
-freetronics_footprints
-2X04
-
-
-0
-8
-8
-freetronics_footprints
-2X5_127MMPITCH
-
-
-0
-10
-10
-freetronics_footprints
-2X8
-
-
-0
-16
-16
-freetronics_footprints
-2X8-SMALLERPADS
-
-
-0
-16
-16
-freetronics_footprints
-2X20
-
-
-0
-40
-40
-freetronics_footprints
-0402
-<b>CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-0402_CAP
-<b>CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-0603
-
-
-0
-2
-2
-freetronics_footprints
-0603_CAP
-
-
-0
-2
-2
-freetronics_footprints
-0805
-
-
-0
-2
-2
-freetronics_footprints
-1206
-
-
-0
-2
-2
-freetronics_footprints
-1206_DIODE
-
-
-0
-2
-2
-freetronics_footprints
-1210
-
-
-0
-2
-2
-freetronics_footprints
-1210_CAP
-
-
-0
-2
-2
-freetronics_footprints
-1812
-
-
-0
-2
-2
-freetronics_footprints
-1812_CAP
-
-CMS SM
-0
-2
-2
-freetronics_footprints
-ALLIGATOR_CLIP_CONN
-
-
-0
-2
-1
-freetronics_footprints
-ARDUINO_DUE_SHIELD
-http://www.thingiverse.com/thing:9630
-
-0
-92
-92
-freetronics_footprints
-ARDUINO_MEGA_SHIELD
-http://www.thingiverse.com/thing:9630
-
-0
-92
-92
-freetronics_footprints
-ARDUINO_SHIELD
-http://www.thingiverse.com/thing:9630
-
-0
-38
-38
-freetronics_footprints
-ARDUINO_SHIELD_ROUNDPADS
-test
-
-0
-38
-38
-freetronics_footprints
-ARDUINO_SHIELD_ROUNDPADS_BREAKOUT
-test
-
-0
-70
-38
-freetronics_footprints
-AXIAL-0.3
-
-
-0
-2
-2
-freetronics_footprints
-BUZZER-12X12-SMT
-
-buzzer piezo
-0
-2
-2
-freetronics_footprints
-CAP_ELECTRO_D4S1.8
-<b>ELECTROLYTIC CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-CAP_ELECTRO_D5S2
-<b>ELECTROLYTIC CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-CAP_ELECTRO_D8S3.5
-<b>ELECTROLYTIC CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-CAP_ELECTRO_D10S3.5
-<b>ELECTROLYTIC CAPACITOR</b><p>
-
-0
-2
-2
-freetronics_footprints
-CAP_ELECTRO_SMD_6.6mm
-
-
-0
-2
-2
-freetronics_footprints
-CAP_TANT_3216
-<b>TANTALUM CAPACITOR</b>
-
-0
-2
-2
-freetronics_footprints
-CAP_TANT_3528
-<b>TANTALUM CAPACITOR</b>
-
-0
-2
-2
-freetronics_footprints
-CAP_TANT_6032
-<b>TANTALUM CAPACITOR</b>
-
-0
-2
-2
-freetronics_footprints
-CAP_TANT_7343
-<b>TANTALUM CAPACITOR</b>
-
-0
-2
-2
-freetronics_footprints
-CRYSTAL-32KHZ-SMD
-
-
-0
-3
-3
-freetronics_footprints
-CRYSTAL-ABS07L
-
-
-0
-2
-2
-freetronics_footprints
-CRYSTAL-SMD-5X3
-
-
-0
-4
-4
-freetronics_footprints
-CRYSTAL_EPSON_FC145
-
-
-0
-2
-2
-freetronics_footprints
-CRYSTAL_HC49_PTH
-Quartz boitier HC-49 Vertical
-QUARTZ DEV
-0
-2
-2
-freetronics_footprints
-CRYSTAL_HC49_SMD
-<b>CRYSTAL</b>
-
-0
-2
-2
-freetronics_footprints
-CRYSTAL_KX-7
-
-
-0
-4
-3
-freetronics_footprints
-CRYSTAL_TXC7A
-
-
-0
-2
-2
-freetronics_footprints
-DIL08
-<b>Dual In Line Package</b>
-
-0
-8
-8
-freetronics_footprints
-DIL28-3
-
-
-0
-28
-28
-freetronics_footprints
-DIODE-1N4001
-
-
-0
-2
-2
-freetronics_footprints
-DIODE-1N4148
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_EIA3216
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_EIA3528
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_EIA7343
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_SMA
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_SMB
-<b>Diode</b><p>
-
-0
-2
-2
-freetronics_footprints
-DIODE_SMC
-<b>Diode</b><p>
-
-0
-2
-2
-freetronics_footprints
-DIODE_SOD-123
-
-
-0
-2
-2
-freetronics_footprints
-DIODE_SOD-323
-
-
-0
-2
-2
-freetronics_footprints
-DPAK
-<b>DPAK</b><p>
-
-0
-3
-3
-freetronics_footprints
-DPAK_FET
-
-TO-263,MOSFET_N,MOSFET_P
-0
-3
-3
-freetronics_footprints
-FIDUCIAL
-Quartz boitier HC-49 Vertical
-QUARTZ DEV
-0
-1
-1
-freetronics_footprints
-FT-POE-MODULE
-
-
-0
-4
-4
-freetronics_footprints
-FT-POE-MODULE-NOOUTLINE
-
-
-0
-4
-4
-freetronics_footprints
-FT_MODULE_IMU9
-
-
-0
-4
-4
-freetronics_footprints
-FT_MODULE_SOUND
-
-
-0
-2
-2
-freetronics_footprints
-HY931147C
-HY931147C RJ45 Ethernet jack with built-in magnetics and PoE support
-
-0
-16
-16
-freetronics_footprints
-IND_1206
-
-
-0
-2
-2
-freetronics_footprints
-IND_CDRH125
-
-
-0
-2
-2
-freetronics_footprints
-IND_CEP125
-<b>POWER INDUCTORS</b> (SMT Type)<p>
-
-0
-3
-3
-freetronics_footprints
-IND_CR54
-
-
-0
-2
-2
-freetronics_footprints
-IND_CR75
-
-
-0
-2
-2
-freetronics_footprints
-IND_EPCOS_B82462G
-
-
-0
-2
-2
-freetronics_footprints
-IND_MH2029
-
-
-0
-2
-2
-freetronics_footprints
-IND_SDR2207
-
-
-0
-2
-2
-freetronics_footprints
-IND_SRN8040
-
-
-0
-2
-2
-freetronics_footprints
-IND_SRP1040
-
-
-0
-2
-2
-freetronics_footprints
-IND_SRR0604
-
-
-0
-2
-2
-freetronics_footprints
-IND_SRU1038
-
-
-0
-2
-2
-freetronics_footprints
-JOYSTICK_W_BUTTON
-
-JOYSTICK PS2 BUTTON
-0
-14
-9
-freetronics_footprints
-LCD_16X2_REAR
-
-
-0
-16
-16
-freetronics_footprints
-LED-3MM
-<B>LED</B><p>
-
-0
-2
-2
-freetronics_footprints
-LED-5MM
-<B>LED</B><p>
-
-0
-2
-2
-freetronics_footprints
-LED-10MM
-
-
-0
-2
-2
-freetronics_footprints
-LED-0603
-
-
-0
-2
-2
-freetronics_footprints
-LED-0805
-
-
-0
-2
-2
-freetronics_footprints
-LED-0805-LARGE
-
-
-0
-2
-2
-freetronics_footprints
-LED-1206
-
-
-0
-2
-2
-freetronics_footprints
-LED-RGB-8MM-COM-K-FULL
-
-
-0
-4
-4
-freetronics_footprints
-LED-RGB-8MM-COM-K-MINIMAL
-
-
-0
-4
-4
-freetronics_footprints
-LED-RGB-5050
-<H3>5050 SMD RGB LED</h3>
-
-0
-6
-6
-freetronics_footprints
-LED_CUBE_BASE_4PIN
-
-
-0
-4
-4
-freetronics_footprints
-LED_MATRIX_PLANE_4PAD
-
-
-0
-4
-4
-freetronics_footprints
-LED_MATRIX_VERTICAL_4PAD
-
-
-0
-4
-4
-freetronics_footprints
-LED_STICK_BASE_4PAD
-
-
-0
-4
-4
-freetronics_footprints
-LEOSTICK_SHIELD
-
-
-0
-34
-34
-freetronics_footprints
-LOGO_CC_1.9mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_CC_2.8mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_8MM
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_11mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_11mm_SolderMask
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_14mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_14mm_SolderMask
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_FREETRONICS_33mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_GND_SILKSCREEN
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_NODEBOTS
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_OSHW_silkscreen_2mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_OSHW_silkscreen_5mm
-
-
-0
-0
-0
-freetronics_footprints
-LOGO_OSHW_silkscreen_10mm
-
-
-0
-0
-0
-freetronics_footprints
-MICRO-SD-SOCKET-PP
-
-
-0
-12
-12
-freetronics_footprints
-OLED-128C128-FPC-BOT
-
-
-0
-32
-32
-freetronics_footprints
-OLED-128X128-FPC-TOP
-
-
-0
-32
-32
-freetronics_footprints
-POT_RV09_VERT
-
-
-0
-5
-3
-freetronics_footprints
-POT_TRIM_3314J
-<b>Trimm resistor</b> BOURNS<p>
-
-0
-3
-3
-freetronics_footprints
-POT_TRIM_PTH
-
-
-0
-3
-3
-freetronics_footprints
-POWER_JACK_PTH
-
-
-0
-3
-3
-freetronics_footprints
-QFN32_0.5mm_EP
-<b>QFN 32</b><p>
-
-0
-42
-33
-freetronics_footprints
-QFN44_0.5mm_EP
-
-
-0
-49
-45
-freetronics_footprints
-QFP32_5mm_0.5mm
-
-
-0
-32
-32
-freetronics_footprints
-QFP32_7mm_0.8mm
-<B>Thin Plasic Quad Flat Package</B> Grid 0.8 mm
-
-0
-32
-32
-freetronics_footprints
-QFP80_10mm_0.4mm
-
-
-0
-80
-80
-freetronics_footprints
-RASPBERRY_PI_HAT
-
-
-0
-40
-40
-freetronics_footprints
-RASPBERRY_PI_P1
-
-
-0
-27
-26
-freetronics_footprints
-RES_AXIAL_400MIL
-
-
-0
-2
-2
-freetronics_footprints
-RES_CAT16
-<b>BOURNS</b> Chip Resistor Array<p>
-
-0
-8
-8
-freetronics_footprints
-RES_CAY16
-
-
-0
-8
-8
-freetronics_footprints
-RJ45-8
-
-
-0
-8
-8
-freetronics_footprints
-RJ45-8X4
-4ucon 19514
-
-0
-37
-37
-freetronics_footprints
-SCREWTERMINAL-3.5MM-2
-
-
-0
-2
-2
-freetronics_footprints
-SCREWTERMINAL-3.5MM-3
-
-
-0
-3
-3
-freetronics_footprints
-SCREWTERMINAL-3.5MM-4
-
-
-0
-4
-4
-freetronics_footprints
-SCREWTERMINAL-3.5MM-5
-
-
-0
-4
-4
-freetronics_footprints
-SCREWTERMINAL-3.5MM-6
-
-
-0
-6
-6
-freetronics_footprints
-SCREWTERMINAL-3.5MM-8
-
-
-0
-8
-8
-freetronics_footprints
-SCREWTERMINAL-3.5MM-10
-
-
-0
-10
-10
-freetronics_footprints
-SCREWTERMINAL-5MM-2
-
-
-0
-2
-2
-freetronics_footprints
-SJ_2
-<b>Solder jumper</b>
-
-0
-3
-3
-freetronics_footprints
-SJ_2W
-<b>Solder jumper</b>
-
-0
-3
-3
-freetronics_footprints
-SJ_OPEN
-<b>Solder jumper</b>
-
-0
-2
-2
-freetronics_footprints
-SJ_SHORTED
-<b>Solder jumper</b>
-
-0
-2
-2
-freetronics_footprints
-SJ_WIDE
-<b>Solder jumper</b>
-
-0
-2
-2
-freetronics_footprints
-SO08_4mm
-<b>Small Outline Package 8</b><br>
-
-0
-8
-8
-freetronics_footprints
-SO08_4mm_EP
-SO8 with exposed pad
-SMD SO8
-0
-9
-9
-freetronics_footprints
-SO14_4mm
-<h3>14-pin SOP-14 package</h3>
-
-0
-14
-14
-freetronics_footprints
-SO16_4mm
-
-
-0
-16
-16
-freetronics_footprints
-SO24W_7.5mm
-
-
-0
-24
-24
-freetronics_footprints
-SOT23-3
-
-
-0
-3
-3
-freetronics_footprints
-SOT23-5
-<b>Small Outline Transistor</b>
-
-0
-5
-5
-freetronics_footprints
-SOT23-6
-<b>Small Outline Transistor</b>
-
-0
-6
-6
-freetronics_footprints
-SOT23_FET
-
-
-0
-3
-3
-freetronics_footprints
-SOT23_PGB102ST23
-TVDS PGB102ST23WR
-TVDS
-0
-3
-3
-freetronics_footprints
-SOT23_TRANSISTOR
-
-
-0
-3
-3
-freetronics_footprints
-SOT89
-
-
-0
-4
-3
-freetronics_footprints
-SOT143-R
-
-SC61A
-0
-4
-4
-freetronics_footprints
-SOT223
-<b>Small Outline Transistor</b>
-
-0
-4
-3
-freetronics_footprints
-SOT323_FET
-
-SMD SOT
-0
-3
-3
-freetronics_footprints
-SOT363
-
-
-0
-6
-6
-freetronics_footprints
-SSOP08_5mm
-<b>Plastic Small Outline</b>
-
-0
-8
-8
-freetronics_footprints
-SSOP24_4mm_EP
-TSSOP 24 pins
-TSSOP SMD
-0
-25
-25
-freetronics_footprints
-SSOP28_4mm
-SOP65P640X110-28N
-SOP65P640X110-28N
-0
-28
-28
-freetronics_footprints
-SSOP28_5.3mm
-<b>Shrink Small Outline Package</b> SSOP-28<p>
-
-0
-28
-28
-freetronics_footprints
-SW_PUSHBUTTON_PTH
-<b>OMRON SWITCH</b>
-
-0
-4
-2
-freetronics_footprints
-SW_PUSHBUTTON_SMD
-
-
-0
-4
-2
-freetronics_footprints
-SW_PUSHBUTTON_TC0122
-http://www.chunkai-industries.com/en/list.asp?ProdId=1169
-SWITCH
-0
-2
-2
-freetronics_footprints
-SW_PUSHBUTTON_TINY_2PIN
-
-
-0
-2
-2
-freetronics_footprints
-TO220_FLAT
-<b>VOLTAGE REGULATOR</b>
-
-0
-3
-3
-freetronics_footprints
-USB-MICRO-5pin_PTHMOUNT
-
-
-0
-11
-6
-freetronics_footprints
-USB-MINIB-5pin
-
-
-0
-9
-6
-freetronics_footprints
-WS2812B
-
-
-0
-4
-4
-freetronics_footprints
-XBEE_PRO
-
-
-0
-20
-20
