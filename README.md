@@ -11,7 +11,7 @@ It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), bu
 
 ### Hackheld Vega - PCB
 
-[Download Gerbers](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_PCB/Hackheld_Vega_gerbers.zip)
+[Download Gerbers](https://github.com/SpacehuhnTech/Hackheld/raw/main/Hackheld_Vega_PCB/Hackheld_Vega_rev1_gerbers.zip)
 
 ### Hackheld Vega - Bill Of Materials (BOM)
 
