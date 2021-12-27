@@ -31,7 +31,7 @@ It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), bu
 
 ### Hackheld Vega - Case
 
-[Download STL](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_Case/Hackheld_Vega_Case.stl)
+[Download STL](https://www.prusaprinters.org/prints/95180-hackheld-vega-case)
 
 Additionally, you will need 4 M2.5 screws to connect the PCB to the case.
 
