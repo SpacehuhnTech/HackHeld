@@ -7,7 +7,7 @@ A open source hackable handheld for DIY.
 ![Hackheld Vega Assembled](https://raw.githubusercontent.com/SpacehuhnTech/Hackheld/main/Hackheld_Vega_Images/hackheld_vega.jpg)
 
 The Hackheld Vega is made to be as simple as possible. Made up of just a D1 Mini, OLED, RGB LED and a couple of buttons! 
-It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), but you can also write your own firmware using Arduino. 
+It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deauther), but you can also write your own firmware using Arduino. 
 
 ### Hackheld Vega - PCB
 
