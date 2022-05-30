@@ -7,7 +7,7 @@ A open source hackable handheld for DIY.
 ![Hackheld Vega Assembled](https://raw.githubusercontent.com/SpacehuhnTech/Hackheld/main/Hackheld_Vega_Images/hackheld_vega.jpg)
 
 The Hackheld Vega is made to be as simple as possible. Made up of just a D1 Mini, OLED, RGB LED and a couple of buttons! 
-It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), but you can also write your own firmware using Arduino. 
+It can run the [ESP8266 Deauther](https://github.com/spacehuhntech/esp8266_deauther), but you can also write your own firmware using Arduino. 
 
 ### Hackheld Vega - PCB
 
@@ -23,7 +23,7 @@ It can run the [ESP8266 Deauther](github.com/spacehuhntech/esp8266_deauther), bu
 | Neopixel | 1 | RGB LED WS2812B 5050 | https://s.click.aliexpress.com/e/_9fRrPj |
 | PCB | 1 | [Download Gerbers](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_PCB/Hackheld_Vega_gerbers.zip) | - |
 | 3D Printed Case | 1 | [Download STL](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_Case/Hackheld_Vega_Case.stl) | - |
-| Case screws | 4 | M2.5 screws | https://s.click.aliexpress.com/e/_9QSLrc |
+| Case screws | 4 | M2.5 screws (I used 6mm long screws) | https://s.click.aliexpress.com/e/_9QSLrc |
 
 ![Hackheld Vega OLED pinout](https://raw.githubusercontent.com/SpacehuhnTech/Hackheld/main/Hackheld_Vega_Images/hackheld_vega_oled_note.jpg)
 ![Hackheld Vega Parts](https://raw.githubusercontent.com/SpacehuhnTech/Hackheld/main/Hackheld_Vega_Images/hackheld_vega_bom.jpg)
